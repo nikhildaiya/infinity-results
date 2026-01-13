@@ -1,0 +1,1712 @@
+[
+    {
+        "roll_no": "233301001",
+        "name": "AAPALA GAUR",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 691
+        },
+        "result": "SC",
+        "percentage": 76.78
+    },
+    {
+        "roll_no": "233301002",
+        "name": "ADIL KHAN",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 663
+        },
+        "result": "SC",
+        "percentage": 73.67
+    },
+    {
+        "roll_no": "233301003",
+        "name": "ADITYA DAVE",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 635
+        },
+        "result": "SC",
+        "percentage": 70.56
+    },
+    {
+        "roll_no": "233301004",
+        "name": "AKSHAY PUROHIT",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 555
+        },
+        "result": "SC",
+        "percentage": 61.67
+    },
+    {
+        "roll_no": "233301006",
+        "name": "AYUSHI ARORA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 705
+        },
+        "result": "SC",
+        "percentage": 78.33
+    },
+    {
+        "roll_no": "233301007",
+        "name": "BHAGIRATH SINGH RAJPUROHIT",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 629
+        },
+        "result": "SC",
+        "percentage": 69.89
+    },
+    {
+        "roll_no": "233301008",
+        "name": "BHAVESH GUPTA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 638
+        },
+        "result": "SC",
+        "percentage": 70.89
+    },
+    {
+        "roll_no": "233301009",
+        "name": "BHAVYA JAIN",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 628
+        },
+        "result": "SC",
+        "percentage": 69.78
+    },
+    {
+        "roll_no": "233301010",
+        "name": "DEEPENDRA SINGH",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 641
+        },
+        "result": "SC",
+        "percentage": 71.22
+    },
+    {
+        "roll_no": "233301011",
+        "name": "KARTIKEY JAGANNATH PUROHIT",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 695
+        },
+        "result": "SC",
+        "percentage": 77.22
+    },
+    {
+        "roll_no": "233301012",
+        "name": "MAHANK VASU",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "74",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 731
+        },
+        "result": "SC",
+        "percentage": 81.22
+    },
+    {
+        "roll_no": "233301014",
+        "name": "MUSKAN SHOBHAWAT",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 663
+        },
+        "result": "SC",
+        "percentage": 73.67
+    },
+    {
+        "roll_no": "233301015",
+        "name": "NEHA BHATI",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "74",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "71",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 790
+        },
+        "result": "SC",
+        "percentage": 87.78
+    },
+    {
+        "roll_no": "233301016",
+        "name": "PRACHI L KHATRI",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 674
+        },
+        "result": "SC",
+        "percentage": 74.89
+    },
+    {
+        "roll_no": "233301017",
+        "name": "PRATEEK VYAS",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 593
+        },
+        "result": "SC",
+        "percentage": 65.89
+    },
+    {
+        "roll_no": "233301018",
+        "name": "SAMARJEET SINGH RATHORE",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 626
+        },
+        "result": "SC",
+        "percentage": 69.56
+    },
+    {
+        "roll_no": "233301019",
+        "name": "SHRI RAM VAISHNAV",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 736
+        },
+        "result": "SC",
+        "percentage": 81.78
+    },
+    {
+        "roll_no": "233301020",
+        "name": "VAIBHAV SHARMA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "MCA311": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "MCA312": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "MCA313C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "MCA314C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "MCA315C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "MCA321": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "74",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "MCA322": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "MCA323": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "MCA324C": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 360,
+            "TOTAL_OBT": 751
+        },
+        "result": "SC",
+        "percentage": 83.44
+    }
+]

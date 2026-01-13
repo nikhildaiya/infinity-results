@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /course/*/semester/*/all-results
+Disallow: /course/*/semester/*/top-10
+Disallow: /course/*/semester/*/charts
+Disallow: /course/*/semester/*/search
+
+Allow: /
+
+Sitemap: https://infinityresults.info/sitemap.xml

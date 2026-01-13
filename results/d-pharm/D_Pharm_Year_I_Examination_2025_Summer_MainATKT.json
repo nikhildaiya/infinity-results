@@ -1,0 +1,6242 @@
+[
+    {
+        "roll_no": "242601001",
+        "name": "ANIL PRAJAPAT",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 584
+        },
+        "result": "Clear",
+        "percentage": 58.4
+    },
+    {
+        "roll_no": "242601002",
+        "name": "ARJUN RAM",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 703
+        },
+        "result": "Clear",
+        "percentage": 70.3
+    },
+    {
+        "roll_no": "242601003",
+        "name": "BAJRANG PRAJAPAT",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "38#"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 649
+        },
+        "result": "Clear with Grace",
+        "percentage": 64.9
+    },
+    {
+        "roll_no": "242601004",
+        "name": "BHAVESH KUMAWAT",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "74",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 661
+        },
+        "result": "Clear",
+        "percentage": 66.1
+    },
+    {
+        "roll_no": "242601005",
+        "name": "BHAVESH PATEL",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "27*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "16",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "18*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "23*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "11",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "11*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "30*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 398
+        },
+        "result": "Fail",
+        "percentage": 39.8
+    },
+    {
+        "roll_no": "242601006",
+        "name": "BHUMIKA CHOUDHARY",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 598
+        },
+        "result": "Clear",
+        "percentage": 59.8
+    },
+    {
+        "roll_no": "242601007",
+        "name": "CHANDRA BHAN",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "17*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "14*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "14",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "17*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 430
+        },
+        "result": "Fail",
+        "percentage": 43.0
+    },
+    {
+        "roll_no": "242601008",
+        "name": "DAKSHAYANI JAGDISH GODARA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 645
+        },
+        "result": "Clear",
+        "percentage": 64.5
+    },
+    {
+        "roll_no": "242601009",
+        "name": "DEEPAK MEENA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "18*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "5",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "5*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "8",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "8*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "7",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "7*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "33*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 249
+        },
+        "result": "Fail",
+        "percentage": 24.9
+    },
+    {
+        "roll_no": "242601010",
+        "name": "DHAPU",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 701
+        },
+        "result": "Clear",
+        "percentage": 70.1
+    },
+    {
+        "roll_no": "242601011",
+        "name": "DHEERAJ",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 676
+        },
+        "result": "Clear",
+        "percentage": 67.6
+    },
+    {
+        "roll_no": "242601012",
+        "name": "DIMPAL SHARMA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "76",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 668
+        },
+        "result": "Clear",
+        "percentage": 66.8
+    },
+    {
+        "roll_no": "242601013",
+        "name": "DINESH DHAKA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "71",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 760
+        },
+        "result": "Clear",
+        "percentage": 76.0
+    },
+    {
+        "roll_no": "242601014",
+        "name": "GAJENDRA SINGH",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "19*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "12",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "14*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "16",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "17*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "10",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "13*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 367
+        },
+        "result": "Fail",
+        "percentage": 36.7
+    },
+    {
+        "roll_no": "242601015",
+        "name": "HARISH KUMAR",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "32*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "23*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "22*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "17",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "20*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 450
+        },
+        "result": "Fail",
+        "percentage": 45.0
+    },
+    {
+        "roll_no": "242601016",
+        "name": "HARSH PAREEK",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "17",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "18*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "8",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "14*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "17",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "20*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "16*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "33*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 384
+        },
+        "result": "Fail",
+        "percentage": 38.4
+    },
+    {
+        "roll_no": "242601017",
+        "name": "HEENA SOLANKI",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 720
+        },
+        "result": "Clear",
+        "percentage": 72.0
+    },
+    {
+        "roll_no": "242601018",
+        "name": "JAGDISH JONSON",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "17",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "20*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "9",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "12*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "11",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "13*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "18*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "31*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 406
+        },
+        "result": "Fail",
+        "percentage": 40.6
+    },
+    {
+        "roll_no": "242601019",
+        "name": "JATIN BORANA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 685
+        },
+        "result": "Clear",
+        "percentage": 68.5
+    },
+    {
+        "roll_no": "242601020",
+        "name": "JIGYASHU SANKHLA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "36#"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 536
+        },
+        "result": "Clear with Grace",
+        "percentage": 53.6
+    },
+    {
+        "roll_no": "242601021",
+        "name": "JITENDAR KUMAR CHOUDHARY",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "71",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 776
+        },
+        "result": "Clear",
+        "percentage": 77.6
+    },
+    {
+        "roll_no": "242601022",
+        "name": "KALPANA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 712
+        },
+        "result": "Clear",
+        "percentage": 71.2
+    },
+    {
+        "roll_no": "242601023",
+        "name": "KANAN JAIN",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 735
+        },
+        "result": "Clear",
+        "percentage": 73.5
+    },
+    {
+        "roll_no": "242601024",
+        "name": "KESAR",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 632
+        },
+        "result": "Clear",
+        "percentage": 63.2
+    },
+    {
+        "roll_no": "242601025",
+        "name": "KRISH KHATRI",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "32*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "13*"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "16*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "24*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "28*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 403
+        },
+        "result": "Fail",
+        "percentage": 40.3
+    },
+    {
+        "roll_no": "242601026",
+        "name": "KULDEEP",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "28*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "25*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 549
+        },
+        "result": "Supplimentary",
+        "percentage": 54.9
+    },
+    {
+        "roll_no": "242601027",
+        "name": "LAVISHA RAKHECHA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "4*"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "25*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "7*"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "22*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 342
+        },
+        "result": "Fail",
+        "percentage": 34.2
+    },
+    {
+        "roll_no": "242601028",
+        "name": "MADAN LAL",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "27*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "10",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "17*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "22*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "27*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 439
+        },
+        "result": "Fail",
+        "percentage": 43.9
+    },
+    {
+        "roll_no": "242601029",
+        "name": "MAHESH",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "35*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "20*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "26*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "17",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "17*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 367
+        },
+        "result": "Fail",
+        "percentage": 36.7
+    },
+    {
+        "roll_no": "242601030",
+        "name": "MAHIPAL SINGH",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 631
+        },
+        "result": "Clear",
+        "percentage": 63.1
+    },
+    {
+        "roll_no": "242601031",
+        "name": "MAHIPAL SINGH",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "28*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "17",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "21*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "25*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "12",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "15*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 441
+        },
+        "result": "Fail",
+        "percentage": 44.1
+    },
+    {
+        "roll_no": "242601032",
+        "name": "MANISH KUMAR",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "26*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "21*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "22*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "12",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "13*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 345
+        },
+        "result": "Fail",
+        "percentage": 34.5
+    },
+    {
+        "roll_no": "242601033",
+        "name": "MANISH PRAJAPAT",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "26*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "35*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 552
+        },
+        "result": "Supplimentary",
+        "percentage": 55.2
+    },
+    {
+        "roll_no": "242601034",
+        "name": "MOHAMMED MASOOK RAJA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "14",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "14*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "22*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "20*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 391
+        },
+        "result": "Fail",
+        "percentage": 39.1
+    },
+    {
+        "roll_no": "242601035",
+        "name": "MOHAN LAL",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "18*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "15*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "13*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "17",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "17*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 343
+        },
+        "result": "Fail",
+        "percentage": 34.3
+    },
+    {
+        "roll_no": "242601036",
+        "name": "NARAYAN KUMAR PRAJAPAT",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "38*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "18*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "24*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "14",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "21*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 452
+        },
+        "result": "Fail",
+        "percentage": 45.2
+    },
+    {
+        "roll_no": "242601037",
+        "name": "PARIKSHIT SANKHLA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "34*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "31*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "22*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 494
+        },
+        "result": "Fail",
+        "percentage": 49.4
+    },
+    {
+        "roll_no": "242601038",
+        "name": "PARWEJ HUSAIN",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "21*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "28*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "14",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "22*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 487
+        },
+        "result": "Fail",
+        "percentage": 48.7
+    },
+    {
+        "roll_no": "242601039",
+        "name": "PATEL REETU VANARAM",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 812
+        },
+        "result": "Clear",
+        "percentage": 81.2
+    },
+    {
+        "roll_no": "242601040",
+        "name": "PRAHLAD KUMAR",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "39#"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 592
+        },
+        "result": "Clear with Grace",
+        "percentage": 59.2
+    },
+    {
+        "roll_no": "242601041",
+        "name": "PRIYANSH CHOUDHARY",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 585
+        },
+        "result": "Clear",
+        "percentage": 58.5
+    },
+    {
+        "roll_no": "242601042",
+        "name": "RAKESH CHOUDHARY",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "74",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "73",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 746
+        },
+        "result": "Clear",
+        "percentage": 74.6
+    },
+    {
+        "roll_no": "242601043",
+        "name": "RAMSWAROOP",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "31*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "16",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "22*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "27*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "29*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 476
+        },
+        "result": "Fail",
+        "percentage": 47.6
+    },
+    {
+        "roll_no": "242601044",
+        "name": "RAVI KUMAR",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 715
+        },
+        "result": "Clear",
+        "percentage": 71.5
+    },
+    {
+        "roll_no": "242601045",
+        "name": "ROHIT SHARMA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "26*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "29*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "22*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 536
+        },
+        "result": "Fail",
+        "percentage": 53.6
+    },
+    {
+        "roll_no": "242601046",
+        "name": "SACHIN",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "17*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "24*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "8",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "8*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "33*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 375
+        },
+        "result": "Fail",
+        "percentage": 37.5
+    },
+    {
+        "roll_no": "242601047",
+        "name": "SAGAR VAISHNAV",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 640
+        },
+        "result": "Clear",
+        "percentage": 64.0
+    },
+    {
+        "roll_no": "242601048",
+        "name": "SHYAM LAL",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "8",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "20*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 529
+        },
+        "result": "Supplimentary",
+        "percentage": 52.9
+    },
+    {
+        "roll_no": "242601049",
+        "name": "SONAL",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "77",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "80",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "100"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "74",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 858
+        },
+        "result": "Clear",
+        "percentage": 85.8
+    },
+    {
+        "roll_no": "242601050",
+        "name": "SURENDRA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "31*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "19*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "28*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 486
+        },
+        "result": "Fail",
+        "percentage": 48.6
+    },
+    {
+        "roll_no": "242601051",
+        "name": "SURYA SINGH RATHORE",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "76",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 795
+        },
+        "result": "Clear",
+        "percentage": 79.5
+    },
+    {
+        "roll_no": "242601052",
+        "name": "SURYAVEER SINGH",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "24*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "16*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 456
+        },
+        "result": "Supplimentary",
+        "percentage": 45.6
+    },
+    {
+        "roll_no": "242601053",
+        "name": "TEENA",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "73",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "73",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 791
+        },
+        "result": "Clear",
+        "percentage": 79.1
+    },
+    {
+        "roll_no": "242601054",
+        "name": "VARSHA GEHLOT",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "32*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "31*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 539
+        },
+        "result": "Supplimentary",
+        "percentage": 53.9
+    },
+    {
+        "roll_no": "242601055",
+        "name": "VIDHI GEHLOT",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 771
+        },
+        "result": "Clear",
+        "percentage": 77.1
+    },
+    {
+        "roll_no": "242601056",
+        "name": "VIRENDRA SINGH",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "35#"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 573
+        },
+        "result": "Clear with Grace",
+        "percentage": 57.3
+    },
+    {
+        "roll_no": "242601057",
+        "name": "VIRMA RAM",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 579
+        },
+        "result": "Clear",
+        "percentage": 57.9
+    },
+    {
+        "roll_no": "242601058",
+        "name": "VISHAL",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "31*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "28*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "14",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "21*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 465
+        },
+        "result": "Fail",
+        "percentage": 46.5
+    },
+    {
+        "roll_no": "242601059",
+        "name": "YUVRAJ SINGH",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "25*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "18*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 474
+        },
+        "result": "Supplimentary",
+        "percentage": 47.4
+    },
+    {
+        "roll_no": "242601060",
+        "name": "YUVRAJ SINGH",
+        "course": "D Pharm Year I",
+        "subjects": {
+            "ER20-11P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-11T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-12P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-12T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-13P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-13T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-14P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-14T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-15P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "ER20-15T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 0
+        },
+        "result": "Fail",
+        "percentage": 0.0
+    }
+]
