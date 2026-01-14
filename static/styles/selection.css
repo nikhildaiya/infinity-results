@@ -1,0 +1,75 @@
+.footer-text {
+    font-size: 0.75rem;
+}
+.hero-header {
+    background-color: #008898;
+    padding: 1.75rem 0;
+}
+.hero-image {
+    max-height: 125px;
+}
+.hero-text {
+    font-size: 0.95rem;
+}
+.form-label-responsive {
+    font-size: 0.95rem;
+}
+.form-select-responsive,
+.btn-responsive {
+    font-size: 0.95rem;
+    padding: 0.5rem 0.75rem;
+}
+.form-field {
+    width: 100%;
+}
+@media (min-width: 768px) {
+    .footer-text {
+        font-size: 0.875rem;
+    }
+    .hero-header {
+        padding: 2rem 0;
+    }
+    .hero-image {
+        max-height: 190px;
+    }
+    .hero-text {
+        font-size: 1.175rem;
+    }
+    .form-label-responsive {
+        font-size: 1.05rem;
+    }
+    .form-select-responsive,
+    .btn-responsive {
+        font-size: 1.05rem;
+        padding: 0.6rem 1rem;
+    }
+}
+@media (max-width: 575.98px) {
+    .form-field {
+        max-width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .form-field label,
+    .form-field select {
+        width: 100%;
+    }
+}
+@keyframes fadeInSlideUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.hero-image {
+    opacity: 0;
+    animation-name: fadeInSlideUp;
+    animation-delay: 0.2s;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}

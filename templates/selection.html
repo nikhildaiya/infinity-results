@@ -15,67 +15,7 @@
         <link rel="icon" type="image/png" sizes="256x256" href="{{ url_for('static', filename='images/infinity-256.png') }}">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-        <style>
-            .footer-text {
-                font-size: 0.75rem;
-            }
-            @media (min-width: 768px) {
-                .footer-text {
-                    font-size: 0.875rem;
-                }
-            }
-            .hero-header {
-                background-color: #008898;
-                padding: 1.75rem 0;
-            }
-            .hero-image {
-                max-height: 125px;
-            }
-            .hero-text {
-                font-size: 0.95rem;
-            }
-            @media (min-width: 768px) {
-                .hero-header {
-                    padding: 2rem 0;
-                }
-                .hero-image {
-                    max-height: 190px;
-                }
-                .hero-text {
-                    font-size: 1.175rem;
-                }
-            }
-            .form-label-responsive {
-                font-size: 0.95rem;
-            }
-            .form-select-responsive, .btn-responsive {
-                font-size: 0.95rem;
-                padding: 0.5rem 0.75rem;
-            }
-            @media (min-width: 768px) {
-                .form-label-responsive {
-                    font-size: 1.05rem;
-                }
-                .form-select-responsive, .btn-responsive {
-                    font-size: 1.05rem;
-                    padding: 0.6rem 1rem;
-                }
-            }
-            .form-field {
-                width: 100%;
-            }
-            @media (max-width: 575.98px) {
-                .form-field {
-                    max-width: 90%;
-                    margin-left: auto;
-                    margin-right: auto;
-                }
-                .form-field label,
-                .form-field select {
-                    width: 100%;
-                }
-            }
-        </style>
+        <link rel="stylesheet" href="{{ url_for('static', filename='styles/selection.css') }}">
     </head>
     <body class="d-flex flex-column min-vh-100" style="user-select:none;">
         <nav class="navbar py-2" style="background-color:#008898;">

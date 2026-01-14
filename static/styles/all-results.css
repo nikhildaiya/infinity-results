@@ -1,0 +1,134 @@
+.purple {
+    background-color: #9999ff;
+}
+.status th {
+    background-color: #9999ff;
+}
+.status th, td {
+    padding: 4px;
+}
+.status tr:nth-child(odd) {
+    background-color: #e9ecef;
+}
+.status tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+.footer-text {
+    font-size: 0.75rem;
+}
+.page-header {
+    background-color: #008898;
+    padding: 4rem 0;
+}
+.page-title {
+    font-size: 1.2rem;
+}
+.result-summary-title {
+    font-size: 1rem;
+    font-weight: 600;
+}
+.summary-table-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+.summary-table {
+    width: 100%;
+    max-width: 480px;
+    font-size: 1rem;
+}
+.filter-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+}
+.filter-label {
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+.filter-buttons .btn {
+    font-size: 0.85rem;
+    padding: 0.45rem 0.75rem;
+}
+.results-display-text {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+.search-table-wrapper {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.search-result-table {
+    width: 100%;
+    max-width: 500px;
+}
+.no-results-text {
+    font-size: 0.85rem;
+    color: #555;
+    padding-left: 0.8rem;
+    padding-right: 0.8rem;
+}
+@media (min-width: 768px) {
+    .footer-text {
+        font-size: 0.875rem;
+    }
+    .page-header {
+        padding: 4rem 0;
+    }
+    .page-title {
+        font-size: 2rem;
+    }
+    .result-summary-title {
+        font-size: 1.3rem;
+    }
+    .filter-label {
+        font-size: 1rem;
+    }
+    .filter-buttons .btn {
+        font-size: 0.9rem;
+        padding: 0.45rem 0.8rem;
+    }
+    .results-display-text {
+        font-size: 1.2rem;
+    }
+    .no-results-text {
+        font-size: 1rem;
+    }
+}
+@media (max-width: 575.98px) {
+    .summary-table {
+        font-size: 0.7rem;
+        max-width: 90%;
+    }
+    .summary-table th,
+    .summary-table td {
+        padding: 4px;
+    }
+    .filter-label {
+        font-size: 0.8rem;
+    }
+    .filter-buttons {
+        display: inline-flex;
+    }
+    .filter-buttons .btn {
+        font-size: 0.75rem;
+        padding: 0.35rem 0.6rem;
+    }
+    .search-result-table {
+        font-size: 0.6rem;
+        max-width: 95%;
+    }
+    .search-result-table th,
+    .search-result-table td {
+        padding: 3px;
+    }
+}
