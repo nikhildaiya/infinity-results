@@ -1,0 +1,4014 @@
+[
+    {
+        "roll_no": "222501001",
+        "name": "ABHIJEET SINGH GEHLOT",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "87",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "110"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 406
+        },
+        "result": "SC",
+        "percentage": 67.67
+    },
+    {
+        "roll_no": "222501002",
+        "name": "ABHISHEK CHOUDHARY",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "87",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "111"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 441
+        },
+        "result": "SC",
+        "percentage": 73.5
+    },
+    {
+        "roll_no": "222501003",
+        "name": "ADITYA JAIN",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "89",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "111"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 425
+        },
+        "result": "SC",
+        "percentage": 70.83
+    },
+    {
+        "roll_no": "222501004",
+        "name": "AKSHIT PARIHAR",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "77",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "100"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 403
+        },
+        "result": "SC",
+        "percentage": 67.17
+    },
+    {
+        "roll_no": "222501005",
+        "name": "ARJUN PRABHU RAM BHAYAL",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "79",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "103"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 425
+        },
+        "result": "SC",
+        "percentage": 70.83
+    },
+    {
+        "roll_no": "222501006",
+        "name": "ASHISH SHARMA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "82",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "105"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 413
+        },
+        "result": "SC",
+        "percentage": 68.83
+    },
+    {
+        "roll_no": "222501007",
+        "name": "ASHOK SOLANKI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "75",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "99"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 409
+        },
+        "result": "SC",
+        "percentage": 68.17
+    },
+    {
+        "roll_no": "222501008",
+        "name": "AYUSH SONI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "82",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "106"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 431
+        },
+        "result": "SC",
+        "percentage": 71.83
+    },
+    {
+        "roll_no": "222501009",
+        "name": "BHUMIKA RATHORE",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "94",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "117"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 401
+        },
+        "result": "SC",
+        "percentage": 66.83
+    },
+    {
+        "roll_no": "222501010",
+        "name": "CHAGANRAM RATANLAL DEVASHI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "90"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "83",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "103"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 457
+        },
+        "result": "SC",
+        "percentage": 76.17
+    },
+    {
+        "roll_no": "222501011",
+        "name": "CHITRANSHU SHARMA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "89",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "112"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 419
+        },
+        "result": "SC",
+        "percentage": 69.83
+    },
+    {
+        "roll_no": "222501012",
+        "name": "DEEPAK SARSWAT",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 350
+        },
+        "result": "SC",
+        "percentage": 58.33
+    },
+    {
+        "roll_no": "222501013",
+        "name": "DEEPAK VAISHNAV",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "76",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "99"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 388
+        },
+        "result": "SC",
+        "percentage": 64.67
+    },
+    {
+        "roll_no": "222501014",
+        "name": "DEVANSH KANSARA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "94",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "118"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 442
+        },
+        "result": "SC",
+        "percentage": 73.67
+    },
+    {
+        "roll_no": "222501015",
+        "name": "DIMPLE SENCHA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "87",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "112"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 434
+        },
+        "result": "SC",
+        "percentage": 72.33
+    },
+    {
+        "roll_no": "222501016",
+        "name": "DIVYANSHI RATHORE",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "94",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "117"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 423
+        },
+        "result": "SC",
+        "percentage": 70.5
+    },
+    {
+        "roll_no": "222501017",
+        "name": "GARIMA GANDHI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "94",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "118"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 472
+        },
+        "result": "SC",
+        "percentage": 78.67
+    },
+    {
+        "roll_no": "222501018",
+        "name": "GULAM HUSSAIN",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "81",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "103"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 399
+        },
+        "result": "SC",
+        "percentage": 66.5
+    },
+    {
+        "roll_no": "222501019",
+        "name": "HARSHAL PANWAR",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "76",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "97"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 387
+        },
+        "result": "SC",
+        "percentage": 64.5
+    },
+    {
+        "roll_no": "222501020",
+        "name": "HIMANSHI KANWAR TANWAR",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "31"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "88",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "108"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 361
+        },
+        "result": "SC",
+        "percentage": 60.17
+    },
+    {
+        "roll_no": "222501021",
+        "name": "JAI BHATI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "28"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "76"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 321
+        },
+        "result": "SC",
+        "percentage": 53.5
+    },
+    {
+        "roll_no": "222501022",
+        "name": "JITENDRA KUMAR",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "76",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "98"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 400
+        },
+        "result": "SC",
+        "percentage": 66.67
+    },
+    {
+        "roll_no": "222501023",
+        "name": "KARAN MEHRA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "87",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "110"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 437
+        },
+        "result": "SC",
+        "percentage": 72.83
+    },
+    {
+        "roll_no": "222501024",
+        "name": "KARAN TAK",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "51"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "30"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "75",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "88"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 336
+        },
+        "result": "SC",
+        "percentage": 56.0
+    },
+    {
+        "roll_no": "222501025",
+        "name": "KUNAL DAS GUPTA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "76",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "100"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 446
+        },
+        "result": "SC",
+        "percentage": 74.33
+    },
+    {
+        "roll_no": "222501026",
+        "name": "MAHENDRA PATEL",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "1*"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "0*"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 1
+        },
+        "result": "NC",
+        "percentage": 0.17
+    },
+    {
+        "roll_no": "222501027",
+        "name": "MANISH SHARMA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "75",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "98"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 398
+        },
+        "result": "SC",
+        "percentage": 66.33
+    },
+    {
+        "roll_no": "222501028",
+        "name": "MANISHA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "88"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "44"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "76",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "99"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 445
+        },
+        "result": "SC",
+        "percentage": 74.17
+    },
+    {
+        "roll_no": "222501029",
+        "name": "MAYANK nawal",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "83"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 348
+        },
+        "result": "SC",
+        "percentage": 58.0
+    },
+    {
+        "roll_no": "222501030",
+        "name": "MEGHA BHATI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "51"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "31"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "88",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "107"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 354
+        },
+        "result": "SC",
+        "percentage": 59.0
+    },
+    {
+        "roll_no": "222501031",
+        "name": "MISHI SHANKAR MALHI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "30"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "81",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "103"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 368
+        },
+        "result": "SC",
+        "percentage": 61.33
+    },
+    {
+        "roll_no": "222501032",
+        "name": "MOHAMMED",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "85"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 350
+        },
+        "result": "SC",
+        "percentage": 58.33
+    },
+    {
+        "roll_no": "222501033",
+        "name": "MONIKA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "89",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "112"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 447
+        },
+        "result": "SC",
+        "percentage": 74.5
+    },
+    {
+        "roll_no": "222501034",
+        "name": "MUKESH KUMAR",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "42"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "101",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "123"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 459
+        },
+        "result": "SC",
+        "percentage": 76.5
+    },
+    {
+        "roll_no": "222501035",
+        "name": "NIKHIL SARASWAT",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "1*"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "1*"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "0*"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 2
+        },
+        "result": "NC",
+        "percentage": 0.33
+    },
+    {
+        "roll_no": "222501036",
+        "name": "NILESH SANGELA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "8*"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "81",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "104"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 357
+        },
+        "result": "NC",
+        "percentage": 59.5
+    },
+    {
+        "roll_no": "222501037",
+        "name": "NISHTHA NARWANI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "42"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "82",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "105"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 441
+        },
+        "result": "SC",
+        "percentage": 73.5
+    },
+    {
+        "roll_no": "222501038",
+        "name": "OM KASHYAP",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "48*"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "76",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "95"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 352
+        },
+        "result": "NC",
+        "percentage": 58.67
+    },
+    {
+        "roll_no": "222501039",
+        "name": "PARBHAT SINGH CHAUDHARY",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "80"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "88",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "111"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 433
+        },
+        "result": "SC",
+        "percentage": 72.17
+    },
+    {
+        "roll_no": "222501040",
+        "name": "PRADEEP SINGH",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "101",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "124"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 483
+        },
+        "result": "SC",
+        "percentage": 80.5
+    },
+    {
+        "roll_no": "222501041",
+        "name": "PRAFULL GAUR",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "102",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "125"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 455
+        },
+        "result": "SC",
+        "percentage": 75.83
+    },
+    {
+        "roll_no": "222501042",
+        "name": "PRANJAL KACHHWAHA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "87",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "111"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 392
+        },
+        "result": "SC",
+        "percentage": 65.33
+    },
+    {
+        "roll_no": "222501043",
+        "name": "PRASHANT RATHI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "89"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 396
+        },
+        "result": "SC",
+        "percentage": 66.0
+    },
+    {
+        "roll_no": "222501044",
+        "name": "PRINCE GANDER",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "94"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 396
+        },
+        "result": "SC",
+        "percentage": 66.0
+    },
+    {
+        "roll_no": "222501045",
+        "name": "PRINCE SAINI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "75",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "100"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 416
+        },
+        "result": "SC",
+        "percentage": 69.33
+    },
+    {
+        "roll_no": "222501046",
+        "name": "RAMNARESH BEDA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "90"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 403
+        },
+        "result": "SC",
+        "percentage": 67.17
+    },
+    {
+        "roll_no": "222501047",
+        "name": "RAVINDRA KUMAR RINWA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "83"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "82",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "102"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 418
+        },
+        "result": "SC",
+        "percentage": 69.67
+    },
+    {
+        "roll_no": "222501048",
+        "name": "RAVINDRA PRAJAPAT",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "81",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "102"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 398
+        },
+        "result": "SC",
+        "percentage": 66.33
+    },
+    {
+        "roll_no": "222501049",
+        "name": "SAMPAT",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "51"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "44*"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 329
+        },
+        "result": "NC",
+        "percentage": 54.83
+    },
+    {
+        "roll_no": "222501050",
+        "name": "SHUBHAM BORANA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "41*"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "30"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "90"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 330
+        },
+        "result": "NC",
+        "percentage": 55.0
+    },
+    {
+        "roll_no": "222501051",
+        "name": "SULEMAN",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "31"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "76"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 351
+        },
+        "result": "SC",
+        "percentage": 58.5
+    },
+    {
+        "roll_no": "222501052",
+        "name": "SURESH GOYAL",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "81"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 398
+        },
+        "result": "SC",
+        "percentage": 66.33
+    },
+    {
+        "roll_no": "222501053",
+        "name": "UTKARSH SHARMA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "82"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "83"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "94",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "118"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 472
+        },
+        "result": "SC",
+        "percentage": 78.67
+    },
+    {
+        "roll_no": "222501054",
+        "name": "VAIBHAV BHATI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "89",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "111"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 398
+        },
+        "result": "SC",
+        "percentage": 66.33
+    },
+    {
+        "roll_no": "222501055",
+        "name": "VIDHI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "30"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "83",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "105"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 390
+        },
+        "result": "SC",
+        "percentage": 65.0
+    },
+    {
+        "roll_no": "222501056",
+        "name": "VIMLA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "96",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "120"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 491
+        },
+        "result": "SC",
+        "percentage": 81.83
+    },
+    {
+        "roll_no": "222501057",
+        "name": "VIMLA KUMARI",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "82",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "103"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 410
+        },
+        "result": "SC",
+        "percentage": 68.33
+    },
+    {
+        "roll_no": "222501058",
+        "name": "VINAYAK BOHRA",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "47*"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "77",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "98"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 366
+        },
+        "result": "NC",
+        "percentage": 61.0
+    },
+    {
+        "roll_no": "222501059",
+        "name": "YOGESH PANWAR",
+        "course": "B Pharm Semester VII",
+        "subjects": {
+            "BP701T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP702T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP703T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP704T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP705P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP706PS": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "125",
+                "ESE_OBT": "82",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "106"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 410
+        },
+        "result": "SC",
+        "percentage": 68.33
+    }
+]
