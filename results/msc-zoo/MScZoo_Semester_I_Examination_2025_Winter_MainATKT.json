@@ -1,0 +1,886 @@
+[
+    {
+        "roll_no": "251305001",
+        "name": "ATANU SARASWAT",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 499
+        },
+        "result": "SC",
+        "percentage": 83.17
+    },
+    {
+        "roll_no": "251305002",
+        "name": "BINDU RAJPUROHIT",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 494
+        },
+        "result": "SC",
+        "percentage": 82.33
+    },
+    {
+        "roll_no": "251305003",
+        "name": "KARAN KULDEEP",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 482
+        },
+        "result": "SC",
+        "percentage": 80.33
+    },
+    {
+        "roll_no": "251305004",
+        "name": "LAVEENA MATHUR",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 521
+        },
+        "result": "SC",
+        "percentage": 86.83
+    },
+    {
+        "roll_no": "251305005",
+        "name": "MAHESH KUMAR",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 523
+        },
+        "result": "SC",
+        "percentage": 87.17
+    },
+    {
+        "roll_no": "251305007",
+        "name": "MUSKAN PATEL",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 551
+        },
+        "result": "SC",
+        "percentage": 91.83
+    },
+    {
+        "roll_no": "251305008",
+        "name": "PRIYANKA BHATI",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 512
+        },
+        "result": "SC",
+        "percentage": 85.33
+    },
+    {
+        "roll_no": "251305010",
+        "name": "RAVEENA",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 551
+        },
+        "result": "SC",
+        "percentage": 91.83
+    },
+    {
+        "roll_no": "251305011",
+        "name": "TANU SHREE RATHORE",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 502
+        },
+        "result": "SC",
+        "percentage": 83.67
+    },
+    {
+        "roll_no": "251305012",
+        "name": "VAISHALI MEWARA",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 459
+        },
+        "result": "SC",
+        "percentage": 76.5
+    },
+    {
+        "roll_no": "251305013",
+        "name": "VIDHI VYAS",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 489
+        },
+        "result": "SC",
+        "percentage": 81.5
+    },
+    {
+        "roll_no": "251305014",
+        "name": "VISHAKHA SEN",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 411
+        },
+        "result": "SC",
+        "percentage": 68.5
+    },
+    {
+        "roll_no": "251305015",
+        "name": "YOGESH KUMAR",
+        "course": "M.Sc.(Zoo) Semester I",
+        "subjects": {
+            "CCMSZO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMSZO112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMSZO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "DEMSZO113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "DEMSZO114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "DEMSZO122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 600,
+            "TOTAL_MIN": 240,
+            "TOTAL_OBT": 503
+        },
+        "result": "SC",
+        "percentage": 83.83
+    }
+]
