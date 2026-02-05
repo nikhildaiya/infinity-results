@@ -1,8 +1,8 @@
 User-agent: *
-Disallow: /*/all-results
-Disallow: /*/top-10
-Disallow: /*/charts
-Disallow: /*/search
+Disallow: /course/*/semester/*/all-results
+Disallow: /course/*/semester/*/top-10
+Disallow: /course/*/semester/*/charts
+Disallow: /course/*/semester/*/search
 
 Allow: /
 
