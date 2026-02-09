@@ -1,0 +1,4296 @@
+[
+    {
+        "roll_no": "243301001",
+        "name": "ABHISHEK SINGH",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "96"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 986
+        },
+        "result": "SC",
+        "percentage": 89.64
+    },
+    {
+        "roll_no": "243301002",
+        "name": "ABHISHEK VERMA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 837
+        },
+        "result": "SC",
+        "percentage": 76.09
+    },
+    {
+        "roll_no": "243301003",
+        "name": "ADITYA PRATAP SINGH",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 851
+        },
+        "result": "SC",
+        "percentage": 77.36
+    },
+    {
+        "roll_no": "243301004",
+        "name": "ANKITA BAIS",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "96"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 944
+        },
+        "result": "SC",
+        "percentage": 85.82
+    },
+    {
+        "roll_no": "243301005",
+        "name": "BHANU PRATAP CHOUDHARY",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 830
+        },
+        "result": "SC",
+        "percentage": 75.45
+    },
+    {
+        "roll_no": "243301007",
+        "name": "GOURAV SUTHAR",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "32*"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 768
+        },
+        "result": "NC",
+        "percentage": 69.82
+    },
+    {
+        "roll_no": "243301008",
+        "name": "HARDIK CHITARA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "11",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "31*"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 741
+        },
+        "result": "NC",
+        "percentage": 67.36
+    },
+    {
+        "roll_no": "243301009",
+        "name": "HARDIK KHATRI",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 713
+        },
+        "result": "SC",
+        "percentage": 64.82
+    },
+    {
+        "roll_no": "243301010",
+        "name": "HEMENDRA SINGH CHARAN",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 807
+        },
+        "result": "SC",
+        "percentage": 73.36
+    },
+    {
+        "roll_no": "243301011",
+        "name": "IMRAN KHAN",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 861
+        },
+        "result": "SC",
+        "percentage": 78.27
+    },
+    {
+        "roll_no": "243301012",
+        "name": "JAIVARDHAN SINGH CHAUHAN",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 814
+        },
+        "result": "SC",
+        "percentage": 74.0
+    },
+    {
+        "roll_no": "243301014",
+        "name": "JAY PRAKASH",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 907
+        },
+        "result": "SC",
+        "percentage": 82.45
+    },
+    {
+        "roll_no": "243301015",
+        "name": "KALIM KHAN",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 860
+        },
+        "result": "SC",
+        "percentage": 78.18
+    },
+    {
+        "roll_no": "243301019",
+        "name": "LAKSHITA CHANDORA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 852
+        },
+        "result": "SC",
+        "percentage": 77.45
+    },
+    {
+        "roll_no": "243301020",
+        "name": "LOKESH SONI",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 890
+        },
+        "result": "SC",
+        "percentage": 80.91
+    },
+    {
+        "roll_no": "243301021",
+        "name": "MEHTAB BANO",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "96"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 866
+        },
+        "result": "SC",
+        "percentage": 78.73
+    },
+    {
+        "roll_no": "243301022",
+        "name": "MOHD SHAHRUKH",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 829
+        },
+        "result": "SC",
+        "percentage": 75.36
+    },
+    {
+        "roll_no": "243301023",
+        "name": "MOHIT ACHARYA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 937
+        },
+        "result": "SC",
+        "percentage": 85.18
+    },
+    {
+        "roll_no": "243301024",
+        "name": "MOHIT PANWAR",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 863
+        },
+        "result": "SC",
+        "percentage": 78.45
+    },
+    {
+        "roll_no": "243301027",
+        "name": "NEERAJ MATHUR",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "16",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 850
+        },
+        "result": "SC",
+        "percentage": 77.27
+    },
+    {
+        "roll_no": "243301029",
+        "name": "NIKHIL BHATI",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 883
+        },
+        "result": "SC",
+        "percentage": 80.27
+    },
+    {
+        "roll_no": "243301030",
+        "name": "NIKHIL DAIYA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "98"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "98"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 972
+        },
+        "result": "SC",
+        "percentage": 88.36
+    },
+    {
+        "roll_no": "243301031",
+        "name": "NIKHIL SINGH BHATI",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 854
+        },
+        "result": "SC",
+        "percentage": 77.64
+    },
+    {
+        "roll_no": "243301034",
+        "name": "PAYAL PARIHAR",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 814
+        },
+        "result": "SC",
+        "percentage": 74.0
+    },
+    {
+        "roll_no": "243301035",
+        "name": "PIYUSH MEHTA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 821
+        },
+        "result": "SC",
+        "percentage": 74.64
+    },
+    {
+        "roll_no": "243301037",
+        "name": "PRASHANT DADHICH",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "0",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "29*"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "37*"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 736
+        },
+        "result": "NC",
+        "percentage": 66.91
+    },
+    {
+        "roll_no": "243301038",
+        "name": "PRAVEEN",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 911
+        },
+        "result": "SC",
+        "percentage": 82.82
+    },
+    {
+        "roll_no": "243301040",
+        "name": "RAVI ASOPA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 955
+        },
+        "result": "SC",
+        "percentage": 86.82
+    },
+    {
+        "roll_no": "243301041",
+        "name": "RISHI PUROHIT",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "0",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "25*"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 781
+        },
+        "result": "NC",
+        "percentage": 71.0
+    },
+    {
+        "roll_no": "243301042",
+        "name": "ROUNAK GIRDHAR SHARMA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 874
+        },
+        "result": "SC",
+        "percentage": 79.45
+    },
+    {
+        "roll_no": "243301043",
+        "name": "RUCHI SANKHLA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 896
+        },
+        "result": "SC",
+        "percentage": 81.45
+    },
+    {
+        "roll_no": "243301044",
+        "name": "SADIK",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 792
+        },
+        "result": "SC",
+        "percentage": 72.0
+    },
+    {
+        "roll_no": "243301045",
+        "name": "SAKSHI KALLA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 880
+        },
+        "result": "SC",
+        "percentage": 80.0
+    },
+    {
+        "roll_no": "243301046",
+        "name": "SIDH RATHI",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 892
+        },
+        "result": "SC",
+        "percentage": 81.09
+    },
+    {
+        "roll_no": "243301047",
+        "name": "SOURABH VAISHNAV",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 852
+        },
+        "result": "SC",
+        "percentage": 77.45
+    },
+    {
+        "roll_no": "243301048",
+        "name": "SUHANA KHAN",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "98"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "96"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 949
+        },
+        "result": "SC",
+        "percentage": 86.27
+    },
+    {
+        "roll_no": "243301049",
+        "name": "VIKASH MIRDHA",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "96"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 922
+        },
+        "result": "SC",
+        "percentage": 83.82
+    },
+    {
+        "roll_no": "243301050",
+        "name": "YASHIKA VAISHNAV",
+        "course": "MCA Semester III",
+        "subjects": {
+            "CCMCA311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMCA312": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "14",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "CCMCA313": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMCA314": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "CCMCA315": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCMCA316": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA322": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCMCA323": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "OJT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "SODECA 3": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1100,
+            "TOTAL_MIN": 440,
+            "TOTAL_OBT": 800
+        },
+        "result": "SC",
+        "percentage": 72.73
+    }
+]
