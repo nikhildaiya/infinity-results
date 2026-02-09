@@ -3432,6 +3432,110 @@
         "percentage": 75.7
     },
     {
+        "roll_no": "253301037",
+        "name": "PRERNA SHARMA",
+        "course": "MCA Semester I",
+        "subjects": {
+            "CCMCA111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMCA113": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMCA114": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMCA115": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMCA116": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA122": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCMCA123": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "SODECA 1": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 1000,
+            "TOTAL_MIN": 400,
+            "TOTAL_OBT": 876
+        },
+        "result": "SC",
+        "percentage": 87.6
+    },
+    {
         "roll_no": "253301038",
         "name": "ROHIT KUMAR",
         "course": "MCA Semester I",
@@ -4366,110 +4470,6 @@
         },
         "result": "SC",
         "percentage": 86.0
-    },
-    {
-        "roll_no": "253301048",
-        "name": "TANISHA OJHA",
-        "course": "MCA Semester I",
-        "subjects": {
-            "CCMCA111": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "0 ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "40",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "40"
-            },
-            "CCMCA112": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "8 ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "54",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "62"
-            },
-            "CCMCA113": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "AB ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "40",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "40"
-            },
-            "CCMCA114": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "AB ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "37",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "37*"
-            },
-            "CCMCA115": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "AB ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "54",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "54"
-            },
-            "CCMCA116": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "8 ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "48",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "56"
-            },
-            "CCMCA121": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "24 ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "63",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "87"
-            },
-            "CCMCA122": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "21 ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "57",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "78"
-            },
-            "CCMCA123": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "28 ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "63",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "91"
-            },
-            "SODECA 1": {
-                "CIA_MAX": "30",
-                "CIA_OBT": "22 ",
-                "ESE_MAX": "70",
-                "ESE_OBT": "62",
-                "TOTAL_MAX": "100",
-                "TOTAL_MIN": "40",
-                "TOTAL_OBT": "84"
-            }
-        },
-        "grand_total": {
-            "TOTAL_MAX": 1000,
-            "TOTAL_MIN": 400,
-            "TOTAL_OBT": 629
-        },
-        "result": "NC",
-        "percentage": 62.9
     },
     {
         "roll_no": "253301049",
