@@ -1,0 +1,1294 @@
+[
+    {
+        "roll_no": "241504001",
+        "name": "AIPAL SINGH RATNOO",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "5",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "5*"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "29"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 253
+        },
+        "result": "NC",
+        "percentage": 46.0
+    },
+    {
+        "roll_no": "241504002",
+        "name": "AMIT SINGH",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "16",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "19*"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "36*"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "27*"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "2",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "2*"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "27"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 159
+        },
+        "result": "NC",
+        "percentage": 28.91
+    },
+    {
+        "roll_no": "241504003",
+        "name": "ANSHU YADAV",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 463
+        },
+        "result": "SC",
+        "percentage": 84.18
+    },
+    {
+        "roll_no": "241504004",
+        "name": "ARJUN PATEL",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 326
+        },
+        "result": "SC",
+        "percentage": 59.27
+    },
+    {
+        "roll_no": "241504006",
+        "name": "BHEEMA RAM KARWASARA",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 493
+        },
+        "result": "SC",
+        "percentage": 89.64
+    },
+    {
+        "roll_no": "241504007",
+        "name": "CHANDRA VARDHAN SINGH",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "26*"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "5",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "5*"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "26"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 196
+        },
+        "result": "NC",
+        "percentage": 35.64
+    },
+    {
+        "roll_no": "241504008",
+        "name": "DINESH DAN",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "32*"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "15*"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 254
+        },
+        "result": "NC",
+        "percentage": 46.18
+    },
+    {
+        "roll_no": "241504009",
+        "name": "HIMANSHU LAWA",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "35*"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "43"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 285
+        },
+        "result": "NC",
+        "percentage": 51.82
+    },
+    {
+        "roll_no": "241504010",
+        "name": "KARTIK OJHA",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "27*"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "5",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "26*"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "30"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 247
+        },
+        "result": "NC",
+        "percentage": 44.91
+    },
+    {
+        "roll_no": "241504011",
+        "name": "KHETA RAM KARWASARA",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "96"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "43"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 482
+        },
+        "result": "SC",
+        "percentage": 87.64
+    },
+    {
+        "roll_no": "241504012",
+        "name": "LOKESH SHEKHAWAT",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 383
+        },
+        "result": "SC",
+        "percentage": 69.64
+    },
+    {
+        "roll_no": "241504013",
+        "name": "PRADEEP CHHARANG",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "98"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 513
+        },
+        "result": "SC",
+        "percentage": 93.27
+    },
+    {
+        "roll_no": "241504014",
+        "name": "PRAMOD CHOUDHARY",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "6*"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "5",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "15*"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 215
+        },
+        "result": "NC",
+        "percentage": 39.09
+    },
+    {
+        "roll_no": "241504015",
+        "name": "RAGHUVEER SINGH",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 357
+        },
+        "result": "SC",
+        "percentage": 64.91
+    },
+    {
+        "roll_no": "241504016",
+        "name": "RUDRAKSHI TRIVEDI",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "99"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "98"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "47"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 516
+        },
+        "result": "SC",
+        "percentage": 93.82
+    },
+    {
+        "roll_no": "241504017",
+        "name": "SUDHANSHU",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "37*"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "35"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 301
+        },
+        "result": "NC",
+        "percentage": 54.73
+    },
+    {
+        "roll_no": "241504018",
+        "name": "SUKHDEV",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 379
+        },
+        "result": "SC",
+        "percentage": 68.91
+    },
+    {
+        "roll_no": "241504019",
+        "name": "TEENA",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 346
+        },
+        "result": "SC",
+        "percentage": 62.91
+    },
+    {
+        "roll_no": "241504021",
+        "name": "YASHRAJ SINGH",
+        "course": "B.Sc. PCM Semester III",
+        "subjects": {
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMTH311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCPHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCPHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 220,
+            "TOTAL_OBT": 440
+        },
+        "result": "SC",
+        "percentage": 80.0
+    }
+]
