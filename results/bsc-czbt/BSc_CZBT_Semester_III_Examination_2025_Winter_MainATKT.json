@@ -1,0 +1,3544 @@
+[
+    {
+        "roll_no": "241503002",
+        "name": "ANISHKA SAINI",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 553
+        },
+        "result": "SC",
+        "percentage": 85.08
+    },
+    {
+        "roll_no": "241503003",
+        "name": "ANITA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "41"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 528
+        },
+        "result": "SC",
+        "percentage": 81.23
+    },
+    {
+        "roll_no": "241503005",
+        "name": "AVANTIKA CHOUHAN",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 0
+        },
+        "result": "NC",
+        "percentage": 0.0
+    },
+    {
+        "roll_no": "241503006",
+        "name": "BHAGYASHREE SHAKYA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "38"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 512
+        },
+        "result": "SC",
+        "percentage": 78.77
+    },
+    {
+        "roll_no": "241503007",
+        "name": "CHETALI SOLANKI",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "96"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 563
+        },
+        "result": "SC",
+        "percentage": 86.62
+    },
+    {
+        "roll_no": "241503008",
+        "name": "CHETNA VYAS",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 472
+        },
+        "result": "SC",
+        "percentage": 72.62
+    },
+    {
+        "roll_no": "241503009",
+        "name": "DEEPAL PARIHAR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 508
+        },
+        "result": "SC",
+        "percentage": 78.15
+    },
+    {
+        "roll_no": "241503010",
+        "name": "DEVSHREE CHAWRA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 563
+        },
+        "result": "SC",
+        "percentage": 86.62
+    },
+    {
+        "roll_no": "241503011",
+        "name": "DHARMVEER SINGH PARIHAR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "36"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 468
+        },
+        "result": "SC",
+        "percentage": 72.0
+    },
+    {
+        "roll_no": "241503012",
+        "name": "DIVYA KANWAR RATHORE",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 583
+        },
+        "result": "SC",
+        "percentage": 89.69
+    },
+    {
+        "roll_no": "241503014",
+        "name": "GAURAV GODARA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "38"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 454
+        },
+        "result": "SC",
+        "percentage": 69.85
+    },
+    {
+        "roll_no": "241503015",
+        "name": "GAURAV RAJPUROHIT",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "34"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 405
+        },
+        "result": "SC",
+        "percentage": 62.31
+    },
+    {
+        "roll_no": "241503016",
+        "name": "GOVIND PARIHAR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "9",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "19*"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "32"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 323
+        },
+        "result": "NC",
+        "percentage": 49.69
+    },
+    {
+        "roll_no": "241503018",
+        "name": "HARSH VARDHAN SINGH SHEKHAWAT",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "41"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 391
+        },
+        "result": "SC",
+        "percentage": 60.15
+    },
+    {
+        "roll_no": "241503019",
+        "name": "HIMANSHI MATHUR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "96"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "49"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 600
+        },
+        "result": "SC",
+        "percentage": 92.31
+    },
+    {
+        "roll_no": "241503022",
+        "name": "ISHANGI GAUR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 569
+        },
+        "result": "SC",
+        "percentage": 87.54
+    },
+    {
+        "roll_no": "241503023",
+        "name": "JAYSHREE PUROHIT",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "33"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 438
+        },
+        "result": "SC",
+        "percentage": 67.38
+    },
+    {
+        "roll_no": "241503024",
+        "name": "JOYAB KHAN",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 438
+        },
+        "result": "SC",
+        "percentage": 67.38
+    },
+    {
+        "roll_no": "241503025",
+        "name": "KANISHKA BORANA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 389
+        },
+        "result": "SC",
+        "percentage": 59.85
+    },
+    {
+        "roll_no": "241503028",
+        "name": "KHUSH ARORA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 536
+        },
+        "result": "SC",
+        "percentage": 82.46
+    },
+    {
+        "roll_no": "241503029",
+        "name": "KRISHNA SONI",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "39*"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 338
+        },
+        "result": "NC",
+        "percentage": 52.0
+    },
+    {
+        "roll_no": "241503030",
+        "name": "KUNAL SINGH DEORA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "38"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 406
+        },
+        "result": "SC",
+        "percentage": 62.46
+    },
+    {
+        "roll_no": "241503031",
+        "name": "MANISHA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "32"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 369
+        },
+        "result": "SC",
+        "percentage": 56.77
+    },
+    {
+        "roll_no": "241503033",
+        "name": "MAYURANKSH NARAYAN KALLA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "41"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 539
+        },
+        "result": "SC",
+        "percentage": 82.92
+    },
+    {
+        "roll_no": "241503034",
+        "name": "MOHIT JANGID",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "35"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 482
+        },
+        "result": "SC",
+        "percentage": 74.15
+    },
+    {
+        "roll_no": "241503035",
+        "name": "MOKSHITA SONI",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 508
+        },
+        "result": "SC",
+        "percentage": 78.15
+    },
+    {
+        "roll_no": "241503036",
+        "name": "MONIKA BERA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "43"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 476
+        },
+        "result": "SC",
+        "percentage": 73.23
+    },
+    {
+        "roll_no": "241503037",
+        "name": "MRIDUL GEHLOT",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 422
+        },
+        "result": "SC",
+        "percentage": 64.92
+    },
+    {
+        "roll_no": "241503038",
+        "name": "MUSKAN ALAMCHANDANI",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "43"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 572
+        },
+        "result": "SC",
+        "percentage": 88.0
+    },
+    {
+        "roll_no": "241503039",
+        "name": "NITU JANGIR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 506
+        },
+        "result": "SC",
+        "percentage": 77.85
+    },
+    {
+        "roll_no": "241503040",
+        "name": "PRABHAT SANKHLA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 433
+        },
+        "result": "SC",
+        "percentage": 66.62
+    },
+    {
+        "roll_no": "241503041",
+        "name": "PRATISTH GAUR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 392
+        },
+        "result": "SC",
+        "percentage": 60.31
+    },
+    {
+        "roll_no": "241503042",
+        "name": "RAGHAVENDRA VYAS",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "42"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 391
+        },
+        "result": "SC",
+        "percentage": 60.15
+    },
+    {
+        "roll_no": "241503045",
+        "name": "RISHITA RATHORE",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "41"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 516
+        },
+        "result": "SC",
+        "percentage": 79.38
+    },
+    {
+        "roll_no": "241503046",
+        "name": "RIYA PRAJAPAT",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 424
+        },
+        "result": "SC",
+        "percentage": 65.23
+    },
+    {
+        "roll_no": "241503049",
+        "name": "SAKSHI GOUR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 424
+        },
+        "result": "SC",
+        "percentage": 65.23
+    },
+    {
+        "roll_no": "241503050",
+        "name": "SANDARBH GOYAL",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "36"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 381
+        },
+        "result": "SC",
+        "percentage": 58.62
+    },
+    {
+        "roll_no": "241503051",
+        "name": "SANJAY",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "7",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "7*"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "18*"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "35*"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "29"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 172
+        },
+        "result": "NC",
+        "percentage": 26.46
+    },
+    {
+        "roll_no": "241503052",
+        "name": "SHAKTI SINGH",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "98"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 591
+        },
+        "result": "SC",
+        "percentage": 90.92
+    },
+    {
+        "roll_no": "241503053",
+        "name": "SHEETAL JANGID",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 493
+        },
+        "result": "SC",
+        "percentage": 75.85
+    },
+    {
+        "roll_no": "241503054",
+        "name": "SHRIKANT DADHICH",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 542
+        },
+        "result": "SC",
+        "percentage": 83.38
+    },
+    {
+        "roll_no": "241503055",
+        "name": "SUMIT KANWRIYA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "36"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 440
+        },
+        "result": "SC",
+        "percentage": 67.69
+    },
+    {
+        "roll_no": "241503056",
+        "name": "TEENA SUTHAR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "35"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 442
+        },
+        "result": "SC",
+        "percentage": 68.0
+    },
+    {
+        "roll_no": "241503057",
+        "name": "VARSHA PARIHAR",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "38*"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 408
+        },
+        "result": "NC",
+        "percentage": 62.77
+    },
+    {
+        "roll_no": "241503058",
+        "name": "YASHU CHITARA",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 468
+        },
+        "result": "SC",
+        "percentage": 72.0
+    },
+    {
+        "roll_no": "241503059",
+        "name": "YASHVI GEHLOT",
+        "course": "B.Sc. CZBT Semester III",
+        "subjects": {
+            "CCBTT311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCBTT321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCCHY311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCCHY321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCZOO311": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCZOO321": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "VASPL311": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 422
+        },
+        "result": "SC",
+        "percentage": 64.92
+    }
+]
