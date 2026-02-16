@@ -1,0 +1,4130 @@
+[
+    {
+        "roll_no": "232501001",
+        "name": "AAYUSH CHOUDHARY",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 449
+        },
+        "result": "SC",
+        "percentage": 69.08
+    },
+    {
+        "roll_no": "232501002",
+        "name": "ABHISHEK SINGH GAUR",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "45*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "44"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 410
+        },
+        "result": "NC",
+        "percentage": 63.08
+    },
+    {
+        "roll_no": "232501004",
+        "name": "AKSHITA PUROHIT",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 451
+        },
+        "result": "SC",
+        "percentage": 69.38
+    },
+    {
+        "roll_no": "232501005",
+        "name": "ANTRIKSH CHHAPARWAL",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "46"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 450
+        },
+        "result": "SC",
+        "percentage": 69.23
+    },
+    {
+        "roll_no": "232501006",
+        "name": "ARIHANT JAIN",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "87"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "85"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "46"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 496
+        },
+        "result": "SC",
+        "percentage": 76.31
+    },
+    {
+        "roll_no": "232501007",
+        "name": "ARJUN",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "41*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "32"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 388
+        },
+        "result": "NC",
+        "percentage": 59.69
+    },
+    {
+        "roll_no": "232501008",
+        "name": "BHAGESH MOTWANI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 398
+        },
+        "result": "SC",
+        "percentage": 61.23
+    },
+    {
+        "roll_no": "232501009",
+        "name": "BHARAT DEVASI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "42*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "28"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 377
+        },
+        "result": "NC",
+        "percentage": 58.0
+    },
+    {
+        "roll_no": "232501010",
+        "name": "BRIJRAJ SINGH RATHORE",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "44"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 468
+        },
+        "result": "SC",
+        "percentage": 72.0
+    },
+    {
+        "roll_no": "232501011",
+        "name": "CHIRAG SHARMA",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 461
+        },
+        "result": "SC",
+        "percentage": 70.92
+    },
+    {
+        "roll_no": "232501012",
+        "name": "DAKSH KUMAWAT",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "80"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "80"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 520
+        },
+        "result": "SC",
+        "percentage": 80.0
+    },
+    {
+        "roll_no": "232501013",
+        "name": "DALPAT SINGH",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 432
+        },
+        "result": "SC",
+        "percentage": 66.46
+    },
+    {
+        "roll_no": "232501014",
+        "name": "DEVANSH GAUR",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "42*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 388
+        },
+        "result": "NC",
+        "percentage": 59.69
+    },
+    {
+        "roll_no": "232501018",
+        "name": "FAHAM AL FATHIMA",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "87"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "86"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "93"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "93"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "47"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 577
+        },
+        "result": "SC",
+        "percentage": 88.77
+    },
+    {
+        "roll_no": "232501019",
+        "name": "GAURAV ASWANI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "46*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 388
+        },
+        "result": "NC",
+        "percentage": 59.69
+    },
+    {
+        "roll_no": "232501020",
+        "name": "GAURAV BOTHRA",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "48*"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "43*"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "48*"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "28*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "31"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "30"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "30"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 310
+        },
+        "result": "NC",
+        "percentage": 47.69
+    },
+    {
+        "roll_no": "232501022",
+        "name": "HIMANSHI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "87"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "83"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "75",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "99"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "44"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "47"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 559
+        },
+        "result": "SC",
+        "percentage": 86.0
+    },
+    {
+        "roll_no": "232501023",
+        "name": "HITESH PATEL",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 470
+        },
+        "result": "SC",
+        "percentage": 72.31
+    },
+    {
+        "roll_no": "232501024",
+        "name": "HITESH SEERVI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "48*"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "45*"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "32*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "29"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "29"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 323
+        },
+        "result": "NC",
+        "percentage": 49.69
+    },
+    {
+        "roll_no": "232501026",
+        "name": "KAILASH M",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "82"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "44"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 466
+        },
+        "result": "SC",
+        "percentage": 71.69
+    },
+    {
+        "roll_no": "232501027",
+        "name": "KHAMMA",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "47"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 495
+        },
+        "result": "SC",
+        "percentage": 76.15
+    },
+    {
+        "roll_no": "232501028",
+        "name": "KHUSHI THAWANI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "85"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "88"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "83"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "86"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "47"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 551
+        },
+        "result": "SC",
+        "percentage": 84.77
+    },
+    {
+        "roll_no": "232501029",
+        "name": "KRISHNA BHATI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "44"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "47"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 508
+        },
+        "result": "SC",
+        "percentage": 78.15
+    },
+    {
+        "roll_no": "232501030",
+        "name": "KRITIKA DADHICH KRITIKA DADHICH DADHICH",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "46"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 512
+        },
+        "result": "SC",
+        "percentage": 78.77
+    },
+    {
+        "roll_no": "232501031",
+        "name": "KULDEEP KUMAR",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "46*"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 429
+        },
+        "result": "NC",
+        "percentage": 66.0
+    },
+    {
+        "roll_no": "232501032",
+        "name": "KULDEEP SINGH RATHORE",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 438
+        },
+        "result": "SC",
+        "percentage": 67.38
+    },
+    {
+        "roll_no": "232501033",
+        "name": "LOCHAN SINGH BHATI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "42*"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "48*"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "28*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "41*"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 328
+        },
+        "result": "NC",
+        "percentage": 50.46
+    },
+    {
+        "roll_no": "232501034",
+        "name": "MADAN LAL",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "47*"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 398
+        },
+        "result": "NC",
+        "percentage": 61.23
+    },
+    {
+        "roll_no": "232501036",
+        "name": "MOHIT KUMAR SHARMA",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 491
+        },
+        "result": "SC",
+        "percentage": 75.54
+    },
+    {
+        "roll_no": "232501037",
+        "name": "NAKUL AWASTHI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "87"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "87"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "87"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "44"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "47"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 544
+        },
+        "result": "SC",
+        "percentage": 83.69
+    },
+    {
+        "roll_no": "232501038",
+        "name": "NAVEEN PURI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "40*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 410
+        },
+        "result": "NC",
+        "percentage": 63.08
+    },
+    {
+        "roll_no": "232501039",
+        "name": "NITESH VAISHNAV",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "41*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 404
+        },
+        "result": "NC",
+        "percentage": 62.15
+    },
+    {
+        "roll_no": "232501040",
+        "name": "NITIN KUMAR",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "41"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 473
+        },
+        "result": "SC",
+        "percentage": 72.77
+    },
+    {
+        "roll_no": "232501041",
+        "name": "PIYUSH",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "88"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "80"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "86"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 508
+        },
+        "result": "SC",
+        "percentage": 78.15
+    },
+    {
+        "roll_no": "232501042",
+        "name": "POOJA BHOMARAM CHAUDHARY",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "92"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "93"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "73",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "94"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "47"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 577
+        },
+        "result": "SC",
+        "percentage": 88.77
+    },
+    {
+        "roll_no": "232501043",
+        "name": "PRAGYA PAREEK",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "39*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "47*"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "42"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 387
+        },
+        "result": "NC",
+        "percentage": 59.54
+    },
+    {
+        "roll_no": "232501045",
+        "name": "PRAVEEN",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 420
+        },
+        "result": "SC",
+        "percentage": 64.62
+    },
+    {
+        "roll_no": "232501046",
+        "name": "PUROHIT AYUSH",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "30"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 421
+        },
+        "result": "SC",
+        "percentage": 64.77
+    },
+    {
+        "roll_no": "232501047",
+        "name": "RAJEEV DARYANI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 441
+        },
+        "result": "SC",
+        "percentage": 67.85
+    },
+    {
+        "roll_no": "232501048",
+        "name": "RAJESH SINGH",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "82"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 455
+        },
+        "result": "SC",
+        "percentage": 70.0
+    },
+    {
+        "roll_no": "232501049",
+        "name": "RITIKA CHHANGANI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "41*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "29"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "25"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 369
+        },
+        "result": "NC",
+        "percentage": 56.77
+    },
+    {
+        "roll_no": "232501051",
+        "name": "RONIT JAMES",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "37"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "30"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 397
+        },
+        "result": "SC",
+        "percentage": 61.08
+    },
+    {
+        "roll_no": "232501052",
+        "name": "SANJAY",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "36*"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "48*"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "35*"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "28*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "35*"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "35"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "31"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 281
+        },
+        "result": "NC",
+        "percentage": 43.23
+    },
+    {
+        "roll_no": "232501053",
+        "name": "SHAKSHAT JOSHI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "45*"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "44*"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "26*"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "28*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "26"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "28"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "30"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 285
+        },
+        "result": "NC",
+        "percentage": 43.85
+    },
+    {
+        "roll_no": "232501054",
+        "name": "SOLANKI GOURAV PRAKASH",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "38"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 443
+        },
+        "result": "SC",
+        "percentage": 68.15
+    },
+    {
+        "roll_no": "232501056",
+        "name": "SURENDRA",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "34*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "45*"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 345
+        },
+        "result": "NC",
+        "percentage": 53.08
+    },
+    {
+        "roll_no": "232501059",
+        "name": "VAIBHAV JOSHI",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "14",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "20*"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "24",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "34"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "40"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "33"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 352
+        },
+        "result": "NC",
+        "percentage": 54.15
+    },
+    {
+        "roll_no": "232501060",
+        "name": "YASH KUMAR",
+        "course": "B Pharm Semester V",
+        "subjects": {
+            "BP501T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "86"
+            },
+            "BP502T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BP503T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "85"
+            },
+            "BP504T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BP505T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BP506P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "25",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "36"
+            },
+            "BP507P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "46"
+            },
+            "BP508P": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "25",
+                "TOTAL_OBT": "43"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 325,
+            "TOTAL_OBT": 516
+        },
+        "result": "SC",
+        "percentage": 79.38
+    }
+]
