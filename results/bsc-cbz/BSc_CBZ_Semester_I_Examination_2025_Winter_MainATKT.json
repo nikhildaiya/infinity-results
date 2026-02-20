@@ -1,0 +1,3184 @@
+[
+    {
+        "roll_no": "251501001",
+        "name": "AARIF",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "35*"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 438
+        },
+        "result": "NC",
+        "percentage": 58.4
+    },
+    {
+        "roll_no": "251501002",
+        "name": "AJAY PAL GODARA",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 612
+        },
+        "result": "SC",
+        "percentage": 81.6
+    },
+    {
+        "roll_no": "251501003",
+        "name": "AJAY SINGH MATWA",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "43"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 461
+        },
+        "result": "SC",
+        "percentage": 61.47
+    },
+    {
+        "roll_no": "251501004",
+        "name": "AKSHAT DADHICH",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "49"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 634
+        },
+        "result": "SC",
+        "percentage": 84.53
+    },
+    {
+        "roll_no": "251501005",
+        "name": "AMAN",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 524
+        },
+        "result": "SC",
+        "percentage": 69.87
+    },
+    {
+        "roll_no": "251501006",
+        "name": "ANAND SINGH RAJPUROHIT",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 539
+        },
+        "result": "SC",
+        "percentage": 71.87
+    },
+    {
+        "roll_no": "251501007",
+        "name": "ANKIT CHOUDHARY",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "33*"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "50"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 432
+        },
+        "result": "NC",
+        "percentage": 57.6
+    },
+    {
+        "roll_no": "251501008",
+        "name": "ASHISH",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "32*"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 433
+        },
+        "result": "NC",
+        "percentage": 57.73
+    },
+    {
+        "roll_no": "251501010",
+        "name": "BHARAT KUMAR BALWAN",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 483
+        },
+        "result": "SC",
+        "percentage": 64.4
+    },
+    {
+        "roll_no": "251501011",
+        "name": "BHARAT RAJPUROHIT",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "35*"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 468
+        },
+        "result": "NC",
+        "percentage": 62.4
+    },
+    {
+        "roll_no": "251501013",
+        "name": "BHUMIKA PATEL",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 523
+        },
+        "result": "SC",
+        "percentage": 69.73
+    },
+    {
+        "roll_no": "251501015",
+        "name": "GOVIND RAM",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "34*"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "47"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 453
+        },
+        "result": "NC",
+        "percentage": 60.4
+    },
+    {
+        "roll_no": "251501016",
+        "name": "HIMANSHU KASHYAP",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 585
+        },
+        "result": "SC",
+        "percentage": 78.0
+    },
+    {
+        "roll_no": "251501017",
+        "name": "HITESH CHHAPARWAL",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "16",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "26*"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "14",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "29*"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "16",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "31*"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 374
+        },
+        "result": "NC",
+        "percentage": 49.87
+    },
+    {
+        "roll_no": "251501018",
+        "name": "JAYESH TAMBOLI",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 614
+        },
+        "result": "SC",
+        "percentage": 81.87
+    },
+    {
+        "roll_no": "251501019",
+        "name": "KANIKA BHATI",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 600
+        },
+        "result": "SC",
+        "percentage": 80.0
+    },
+    {
+        "roll_no": "251501020",
+        "name": "KHUSHI SUTHAR",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 669
+        },
+        "result": "SC",
+        "percentage": 89.2
+    },
+    {
+        "roll_no": "251501023",
+        "name": "MAHIPAL INANIYA",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "55"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 498
+        },
+        "result": "SC",
+        "percentage": 66.4
+    },
+    {
+        "roll_no": "251501024",
+        "name": "MAMTA KUMAR FULWANI",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "20*"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "29*"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 477
+        },
+        "result": "NC",
+        "percentage": 63.6
+    },
+    {
+        "roll_no": "251501025",
+        "name": "MANISH CHOUDHARY",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 566
+        },
+        "result": "SC",
+        "percentage": 75.47
+    },
+    {
+        "roll_no": "251501027",
+        "name": "MANOJ BISHNOI",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "47"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 521
+        },
+        "result": "SC",
+        "percentage": 69.47
+    },
+    {
+        "roll_no": "251501028",
+        "name": "MANYATA PALIWAL",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 584
+        },
+        "result": "SC",
+        "percentage": 77.87
+    },
+    {
+        "roll_no": "251501029",
+        "name": "MOOMAL BHATI",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 662
+        },
+        "result": "SC",
+        "percentage": 88.27
+    },
+    {
+        "roll_no": "251501030",
+        "name": "MS AMRITA PATEL",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "41"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 512
+        },
+        "result": "SC",
+        "percentage": 68.27
+    },
+    {
+        "roll_no": "251501032",
+        "name": "MS MONIKA",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 513
+        },
+        "result": "SC",
+        "percentage": 68.4
+    },
+    {
+        "roll_no": "251501033",
+        "name": "MS TANU SHREE SONI",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 604
+        },
+        "result": "SC",
+        "percentage": 80.53
+    },
+    {
+        "roll_no": "251501035",
+        "name": "NIDHI DHANADIYA",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 626
+        },
+        "result": "SC",
+        "percentage": 83.47
+    },
+    {
+        "roll_no": "251501036",
+        "name": "NIKHIL KHITOLIYA",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 601
+        },
+        "result": "SC",
+        "percentage": 80.13
+    },
+    {
+        "roll_no": "251501037",
+        "name": "NISHANT RAJ GHARU",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "57"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "44"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 424
+        },
+        "result": "SC",
+        "percentage": 56.53
+    },
+    {
+        "roll_no": "251501038",
+        "name": "PANKAJ",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "52"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 429
+        },
+        "result": "SC",
+        "percentage": 57.2
+    },
+    {
+        "roll_no": "251501039",
+        "name": "PRAVEEN",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 607
+        },
+        "result": "SC",
+        "percentage": 80.93
+    },
+    {
+        "roll_no": "251501040",
+        "name": "SIDDHI RAJPUROHIT",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 567
+        },
+        "result": "SC",
+        "percentage": 75.6
+    },
+    {
+        "roll_no": "251501041",
+        "name": "SUMAN",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 600
+        },
+        "result": "SC",
+        "percentage": 80.0
+    },
+    {
+        "roll_no": "251501042",
+        "name": "TIRTHSHIKHA GEHLOT",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 671
+        },
+        "result": "SC",
+        "percentage": 89.47
+    },
+    {
+        "roll_no": "251501043",
+        "name": "VIKRAM",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "51"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "49"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 459
+        },
+        "result": "SC",
+        "percentage": 61.2
+    },
+    {
+        "roll_no": "251501045",
+        "name": "ARJUN",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 534
+        },
+        "result": "NC",
+        "percentage": 71.2
+    },
+    {
+        "roll_no": "251501046",
+        "name": "LOVE CHOUHAN",
+        "course": "B.Sc. CBZ Semester I",
+        "subjects": {
+            "AELNG112": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCBOT111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCBOT121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCCHY111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCCHY121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCZOO111": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCZOO121": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "VASPL121": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 750,
+            "TOTAL_MIN": 300,
+            "TOTAL_OBT": 538
+        },
+        "result": "NC",
+        "percentage": 71.73
+    }
+]
