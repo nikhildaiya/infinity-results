@@ -1,4 +1,4 @@
-🎓 Infinity Results – Student Result Analytics Platform
+# Infinity Results – Student Result Analytics Platform
 
 A user-friendly web application that allows students to view, search, filter, rank, and analyze college examination results with detailed insights and charts — all in one place.
 
@@ -6,7 +6,7 @@ Built to solve the limitation of the official college website, which only shows 
 
 <hr>
 
-🌟 Why This Project Exists
+Why This Project Exists
 
 The official college result portal:
 
@@ -32,9 +32,9 @@ This project transforms raw result data into meaningful insights that help stude
 
 <hr>
 
-🚀 Key Features
+Key Features
 
-✅ Result Exploration
+Result Exploration
 
 * View all results of a course & semester on a single page
 
@@ -46,13 +46,13 @@ This project transforms raw result data into meaningful insights that help stude
 
     * Not Cleared (NC)
  
-🏆 Rankings
+Rankings
 
 * Top 10 students by total marks
 
 * Displays Rank, Roll number, Student name, Total marks, Result status, Percentage & Tied ranks too
 
-🔍 Smart Search
+Smart Search
 
 * Search students by name or roll number
 
@@ -60,7 +60,7 @@ This project transforms raw result data into meaningful insights that help stude
 
 * Displays a clear message if no result is found
 
-📊 Visual Analytics (Charts)
+Visual Analytics (Charts)
 
 * Result distribution (SC / SCG / NC)
 
@@ -70,7 +70,7 @@ This project transforms raw result data into meaningful insights that help stude
 
 * Percentage range distribution of students
 
-⚡ Performance Optimized
+Performance Optimized
 
 * Uses pre-scraped result files
 
@@ -80,7 +80,7 @@ This project transforms raw result data into meaningful insights that help stude
 
 <hr>
 
-🧭 Pages Overview
+Pages Overview
 
 1️⃣ Selection Page
 
@@ -134,7 +134,7 @@ This project transforms raw result data into meaningful insights that help stude
 
 <hr>
 
-⚙️ How the System Works
+How the System Works
 
 1. User selects course and semester.
 
@@ -160,7 +160,7 @@ This project transforms raw result data into meaningful insights that help stude
 
 <hr>
 
-🧠 Data Processing Logic (Behind the Scenes)
+Data Processing Logic (Behind the Scenes)
 
 * Nested result data → converted into flat structure
 
@@ -176,7 +176,7 @@ This project transforms raw result data into meaningful insights that help stude
 
 <hr>
 
-🛠 Tech Stack
+Tech Stack
 
 * Backend: Python, Flask
 
@@ -192,7 +192,7 @@ This project transforms raw result data into meaningful insights that help stude
 
 <hr>
 
-📁 Project Structure
+Project Structure
 
 ```
 infinity-results/
@@ -220,7 +220,7 @@ infinity-results/
 
 <hr>
 
-▶️ Installation & Setup
+Installation & Setup
 
 1️⃣ Clone the Repository
 
@@ -249,7 +249,7 @@ http://127.0.0.1:5000
 
 <hr>
 
-📌 Data Source
+Data Source
 
 * Result data is sourced from the official college website
 
@@ -259,7 +259,7 @@ http://127.0.0.1:5000
 
 <hr>
 
-⚠️ Disclaimer
+Disclaimer
 
 This project is developed for educational and informational purposes only.
 
@@ -267,7 +267,7 @@ All result data belongs to the respective institution.
 
 <hr>
 
-👨‍💻 Author
+Author
 
 Nikhil Daiya
 
