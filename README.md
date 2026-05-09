@@ -6,7 +6,7 @@ Built to solve the limitation of the official college website, which only shows 
 
 <hr>
 
-Why This Project Exists
+## Why This Project Exists
 
 The official college result portal:
 
@@ -32,7 +32,7 @@ This project transforms raw result data into meaningful insights that help stude
 
 <hr>
 
-Key Features
+## Key Features
 
 Result Exploration
 
@@ -80,7 +80,7 @@ Performance Optimized
 
 <hr>
 
-Pages Overview
+## Pages Overview
 
 1️⃣ Selection Page
 
@@ -134,7 +134,7 @@ Pages Overview
 
 <hr>
 
-How the System Works
+## How the System Works
 
 1. User selects course and semester.
 
@@ -160,7 +160,7 @@ How the System Works
 
 <hr>
 
-Data Processing Logic (Behind the Scenes)
+## Data Processing Logic (Behind the Scenes)
 
 * Nested result data → converted into flat structure
 
@@ -176,7 +176,7 @@ Data Processing Logic (Behind the Scenes)
 
 <hr>
 
-Tech Stack
+## Tech Stack
 
 * Backend: Python, Flask
 
@@ -192,7 +192,7 @@ Tech Stack
 
 <hr>
 
-Project Structure
+## Project Structure
 
 ```
 infinity-results/
@@ -220,7 +220,7 @@ infinity-results/
 
 <hr>
 
-Installation & Setup
+## Installation & Setup
 
 1️⃣ Clone the Repository
 
@@ -249,7 +249,7 @@ http://127.0.0.1:5000
 
 <hr>
 
-Data Source
+## Data Source
 
 * Result data is sourced from the official college website
 
@@ -259,7 +259,7 @@ Data Source
 
 <hr>
 
-Disclaimer
+## Disclaimer
 
 This project is developed for educational and informational purposes only.
 
@@ -267,7 +267,7 @@ All result data belongs to the respective institution.
 
 <hr>
 
-Author
+## Author
 
 Nikhil Daiya
 
