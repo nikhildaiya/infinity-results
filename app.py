@@ -179,11 +179,11 @@ def find_file_and_create_key(course_name, semester):
     folder = os.path.join("results", course_name)
     
     if course_name == "d-pharm":
-        pattern = f"{folder}/*_Year_{semester}_Examination_*_{season}_MainATKT.*"
+        pattern = f"{folder}/*_Year_{semester}_Examination_*_{season}_MainATKT"
     else:
-        pattern = f"{folder}/*_Semester_{semester}_Examination_*_{season}_MainATKT.*"
+        pattern = f"{folder}/*_Semester_{semester}_Examination_*_{season}_MainATKT"
     
-    matches = glob.glob(pattern)
+    matches = glob.glob(pattern + ".pkl") or glob.glob(pattern + ".json")
     if not matches:
         return None, None
         
@@ -202,9 +202,11 @@ def read_file_data(file_path):
 
     if file_path.endswith(".pkl"):
         with open(file_path, "rb") as f:
+            print(f"Reading PKL: {file_path}")
             data = pickle.load(f)
     elif file_path.endswith(".json"):
         with open(file_path, "r", encoding="utf-8") as f:
+            print(f"Reading JSON: {file_path}")
             data = json.load(f)
     else:
         data = None
