@@ -22,7 +22,9 @@ COURSE_DATA = {
         "bsc-czbt": {"name": "B.Sc. CZBT", "semesters": ["I", "II", "III", "IV", "V", "VI"]},
         "bsc-pcm": {"name": "B.Sc. PCM", "semesters": ["I", "II", "III", "IV", "V", "VI"]},
         "bsc-pmcs": {"name": "B.Sc. PMCS", "semesters": ["I", "II", "III", "IV", "V", "VI"]},
-        "bpt": {"name": "BPT", "semesters": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]}
+        "bpt": {"name": "BPT", "semesters": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]},
+        "btech-cs": {"name": "B.Tech CS", "semesters": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]},
+        "btech-ai": {"name": "B.Tech AI", "semesters": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]}
     },
     "Postgraduate": {
         "mca": {"name": "MCA", "semesters": ["I", "II", "III", "IV"]},
