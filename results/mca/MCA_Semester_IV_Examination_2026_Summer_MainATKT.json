@@ -385,6 +385,83 @@
         "percentage": 78.0
     },
     {
+        "roll_no": "243301006",
+        "name": "FARHAN KHAN",
+        "course": "MCA Semester IV",
+        "subjects": {
+            "CCMCA411": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMCA412": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCMCA421": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMCA422": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CEMCA413": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CEMCA414": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "SODECA 4": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 700,
+            "TOTAL_MIN": 280,
+            "TOTAL_OBT": 574
+        },
+        "result": "SC",
+        "percentage": 82.0
+    },
+    {
         "roll_no": "243301007",
         "name": "GOURAV SUTHAR",
         "course": "MCA Semester IV",
@@ -845,6 +922,83 @@
         },
         "result": "SC",
         "percentage": 82.29
+    },
+    {
+        "roll_no": "243301013",
+        "name": "JASDEEP SINGH HANSPAL",
+        "course": "MCA Semester IV",
+        "subjects": {
+            "CCMCA411": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCMCA412": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMCA421": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCMCA422": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CEMCA413": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CEMCA414": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "SODECA 4": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 700,
+            "TOTAL_MIN": 280,
+            "TOTAL_OBT": 546
+        },
+        "result": "SC",
+        "percentage": 78.0
     },
     {
         "roll_no": "243301014",
@@ -1617,6 +1771,83 @@
         "percentage": 77.14
     },
     {
+        "roll_no": "243301026",
+        "name": "NANDANI VERMA",
+        "course": "MCA Semester IV",
+        "subjects": {
+            "CCMCA411": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMCA412": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "10*"
+            },
+            "CCMCA421": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMCA422": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CEMCA413": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CEMCA414": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "SODECA 4": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 700,
+            "TOTAL_MIN": 280,
+            "TOTAL_OBT": 10
+        },
+        "result": "NC",
+        "percentage": 1.43
+    },
+    {
         "roll_no": "243301027",
         "name": "NEERAJ MATHUR",
         "course": "MCA Semester IV",
@@ -2000,6 +2231,83 @@
         },
         "result": "SC",
         "percentage": 87.14
+    },
+    {
+        "roll_no": "243301032",
+        "name": "NITESH MATHUR",
+        "course": "MCA Semester IV",
+        "subjects": {
+            "CCMCA411": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCMCA412": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCMCA421": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA422": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CEMCA413": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CEMCA414": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "SODECA 4": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 700,
+            "TOTAL_MIN": 280,
+            "TOTAL_OBT": 587
+        },
+        "result": "SC",
+        "percentage": 83.86
     },
     {
         "roll_no": "243301034",
@@ -3309,5 +3617,159 @@
         },
         "result": "SC",
         "percentage": 85.29
+    },
+    {
+        "roll_no": "243301051",
+        "name": "EKTA MATHUR",
+        "course": "MCA Semester IV",
+        "subjects": {
+            "CCMCA411": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCMCA412": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCMCA421": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA422": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CEMCA413": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CEMCA414": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "SODECA 4": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 700,
+            "TOTAL_MIN": 280,
+            "TOTAL_OBT": 602
+        },
+        "result": "SC",
+        "percentage": 86.0
+    },
+    {
+        "roll_no": "243301052",
+        "name": "ASHIKA",
+        "course": "MCA Semester IV",
+        "subjects": {
+            "CCMCA411": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCMCA412": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCMCA421": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCMCA422": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CEMCA413": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CEMCA414": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "SODECA 4": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 700,
+            "TOTAL_MIN": 280,
+            "TOTAL_OBT": 548
+        },
+        "result": "SC",
+        "percentage": 78.29
     }
 ]
