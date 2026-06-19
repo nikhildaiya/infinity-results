@@ -1,0 +1,297 @@
+[
+    {
+        "roll_no": "232502001",
+        "name": "AJAYPAL SINGH",
+        "course": "B Pharm L Semester VIII",
+        "subjects": {
+            "BP801T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP802T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP804ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BP809ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BP813PW": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "150",
+                "ESE_OBT": "103",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "103"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 275,
+            "TOTAL_OBT": 349
+        },
+        "result": "SC",
+        "percentage": 63.45
+    },
+    {
+        "roll_no": "232502002",
+        "name": "MONIKA GEHLOT",
+        "course": "B Pharm L Semester VIII",
+        "subjects": {
+            "BP801T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BP802T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP804ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BP809ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BP813PW": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "150",
+                "ESE_OBT": "123",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "123"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 275,
+            "TOTAL_OBT": 425
+        },
+        "result": "SC",
+        "percentage": 77.27
+    },
+    {
+        "roll_no": "232502003",
+        "name": "RAMAVATAR",
+        "course": "B Pharm L Semester VIII",
+        "subjects": {
+            "BP801T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "20",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "30*"
+            },
+            "BP802T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BP804ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BP809ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BP813PW": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "150",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 275,
+            "TOTAL_OBT": 30
+        },
+        "result": "NC",
+        "percentage": 5.45
+    },
+    {
+        "roll_no": "232502004",
+        "name": "VIVEK RAJPUROHIT",
+        "course": "B Pharm L Semester VIII",
+        "subjects": {
+            "BP801T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BP802T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP804ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP809ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BP813PW": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "150",
+                "ESE_OBT": "100",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "100"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 275,
+            "TOTAL_OBT": 360
+        },
+        "result": "SC",
+        "percentage": 65.45
+    },
+    {
+        "roll_no": "232502005",
+        "name": "RAHUL VAISHNAV",
+        "course": "B Pharm L Semester VIII",
+        "subjects": {
+            "BP801T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BP802T": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP804ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BP809ET": {
+                "CIA_MAX": "25",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "75",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BP813PW": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "150",
+                "ESE_OBT": "104",
+                "TOTAL_MAX": "150",
+                "TOTAL_MIN": "75",
+                "TOTAL_OBT": "104"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 550,
+            "TOTAL_MIN": 275,
+            "TOTAL_OBT": 361
+        },
+        "result": "SC",
+        "percentage": 65.64
+    }
+]
