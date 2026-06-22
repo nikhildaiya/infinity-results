@@ -1,0 +1,2620 @@
+[
+    {
+        "roll_no": "251506001",
+        "name": "ANOP KUMAR BISHNOI",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "91"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "83"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "43"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 545
+        },
+        "result": "SC",
+        "percentage": 83.85
+    },
+    {
+        "roll_no": "251506004",
+        "name": "ARYAN GEHLOT",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "63"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "59"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "47"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 495
+        },
+        "result": "SC",
+        "percentage": 76.15
+    },
+    {
+        "roll_no": "251506005",
+        "name": "AVINASH",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "33*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "3*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "0",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "15",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "15*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 91
+        },
+        "result": "NC",
+        "percentage": 14.0
+    },
+    {
+        "roll_no": "251506006",
+        "name": "BHAVESH RAJKUMAR BHAGCHANDANI",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 444
+        },
+        "result": "SC",
+        "percentage": 68.31
+    },
+    {
+        "roll_no": "251506007",
+        "name": "DESHRAJ SINGH SHEKHAWAT",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "19",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "31*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "12",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "19*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "26"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 145
+        },
+        "result": "NC",
+        "percentage": 22.31
+    },
+    {
+        "roll_no": "251506008",
+        "name": "DHRUV MEWARA",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "61"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "45"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "43"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 445
+        },
+        "result": "SC",
+        "percentage": 68.46
+    },
+    {
+        "roll_no": "251506009",
+        "name": "GAURAB SINGH",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "37"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 463
+        },
+        "result": "SC",
+        "percentage": 71.23
+    },
+    {
+        "roll_no": "251506010",
+        "name": "HEMLATA",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "58"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "50"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 464
+        },
+        "result": "SC",
+        "percentage": 71.38
+    },
+    {
+        "roll_no": "251506011",
+        "name": "KANAK SONI",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "7",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "7*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "7*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 14
+        },
+        "result": "NC",
+        "percentage": 2.15
+    },
+    {
+        "roll_no": "251506012",
+        "name": "KAVITA RATHORE",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "68"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "34*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "42"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 433
+        },
+        "result": "NC",
+        "percentage": 66.62
+    },
+    {
+        "roll_no": "251506013",
+        "name": "KHUSH KATTA",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "50"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 535
+        },
+        "result": "SC",
+        "percentage": 82.31
+    },
+    {
+        "roll_no": "251506014",
+        "name": "KHUSHI SONI",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "79"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "98"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "50"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 545
+        },
+        "result": "SC",
+        "percentage": 83.85
+    },
+    {
+        "roll_no": "251506015",
+        "name": "KINSHUK SAIN",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "8",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "8*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "12*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "7*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 27
+        },
+        "result": "NC",
+        "percentage": 4.15
+    },
+    {
+        "roll_no": "251506016",
+        "name": "MADHU VAISHNAV",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "71"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 563
+        },
+        "result": "SC",
+        "percentage": 86.62
+    },
+    {
+        "roll_no": "251506017",
+        "name": "MALISHKA BORANA",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "78"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "50"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 552
+        },
+        "result": "SC",
+        "percentage": 84.92
+    },
+    {
+        "roll_no": "251506018",
+        "name": "MANVENDRA SINGH CHOUHAN",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "25*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "53"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 317
+        },
+        "result": "NC",
+        "percentage": 48.77
+    },
+    {
+        "roll_no": "251506019",
+        "name": "MOHIT UPADHYAY",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "4*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "21*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "69"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "36"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 331
+        },
+        "result": "NC",
+        "percentage": 50.92
+    },
+    {
+        "roll_no": "251506020",
+        "name": "MS VINITA RAV",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "33",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "48"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 545
+        },
+        "result": "SC",
+        "percentage": 83.85
+    },
+    {
+        "roll_no": "251506021",
+        "name": "NARENDRA PANWAR",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "43"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "60"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "66"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "72"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "28",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "39"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 407
+        },
+        "result": "SC",
+        "percentage": 62.62
+    },
+    {
+        "roll_no": "251506022",
+        "name": "NEHA PANWAR",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "46"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "47"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "0",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "13*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "75"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "45"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 367
+        },
+        "result": "NC",
+        "percentage": 56.46
+    },
+    {
+        "roll_no": "251506023",
+        "name": "NEPAL SINGH",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "7*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "14*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 21
+        },
+        "result": "NC",
+        "percentage": 3.23
+    },
+    {
+        "roll_no": "251506024",
+        "name": "NITIN MANDAL",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "17",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "17*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "12*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 29
+        },
+        "result": "NC",
+        "percentage": 4.46
+    },
+    {
+        "roll_no": "251506025",
+        "name": "OM PRAKASH",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "64"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "21",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "33*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "5*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "0",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "9*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 111
+        },
+        "result": "NC",
+        "percentage": 17.08
+    },
+    {
+        "roll_no": "251506026",
+        "name": "PRATIKSHA RAJPUROHIT",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "95"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "89"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "97"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "46"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 571
+        },
+        "result": "SC",
+        "percentage": 87.85
+    },
+    {
+        "roll_no": "251506027",
+        "name": "PRITHVI RAJ SINGH",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "48"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "81"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "21 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "21*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "9",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "16*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "36"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 338
+        },
+        "result": "NC",
+        "percentage": 52.0
+    },
+    {
+        "roll_no": "251506028",
+        "name": "RAMESH KACHHAWA",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 0
+        },
+        "result": "NC",
+        "percentage": 0.0
+    },
+    {
+        "roll_no": "251506029",
+        "name": "RISHABH AGARWAL",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 0
+        },
+        "result": "NC",
+        "percentage": 0.0
+    },
+    {
+        "roll_no": "251506030",
+        "name": "SACHIN SINGH",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "23 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "76"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "70"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "73"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "56"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "8",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "14*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "62"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "38"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 389
+        },
+        "result": "NC",
+        "percentage": 59.85
+    },
+    {
+        "roll_no": "251506031",
+        "name": "SHUBHAM SEN GUPTA",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 0
+        },
+        "result": "NC",
+        "percentage": 0.0
+    },
+    {
+        "roll_no": "251506032",
+        "name": "SURYAPAL SINGH RATHORE",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "65"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "26*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "7*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "36",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "40"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "0",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "3*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "67"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "41"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 249
+        },
+        "result": "NC",
+        "percentage": 38.31
+    },
+    {
+        "roll_no": "251506033",
+        "name": "TARUN SINGH DUDI",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "10",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "20*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 20
+        },
+        "result": "NC",
+        "percentage": 3.08
+    },
+    {
+        "roll_no": "251506034",
+        "name": "VIRENDRA DAVE",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "25 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "88"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "28 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "90"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "30 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "29 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "94"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "34",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "49"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 562
+        },
+        "result": "SC",
+        "percentage": 86.46
+    },
+    {
+        "roll_no": "251506035",
+        "name": "VISHAL PALIWAL",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "0*"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 0
+        },
+        "result": "NC",
+        "percentage": 0.0
+    },
+    {
+        "roll_no": "251506036",
+        "name": "YOURAJ KUMAR",
+        "course": "B.Sc. PMCS Semester II",
+        "subjects": {
+            "AELNG212": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "24 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "74"
+            },
+            "CCCSC211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "87"
+            },
+            "CCCSC221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "26 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "84"
+            },
+            "CCMTH211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            },
+            "CCPHY211": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "22 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "54"
+            },
+            "CCPHY221": {
+                "CIA_MAX": "30",
+                "CIA_OBT": "27 ",
+                "ESE_MAX": "70",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "77"
+            },
+            "VASPL211": {
+                "CIA_MAX": "15",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "35",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "50",
+                "TOTAL_MIN": "20",
+                "TOTAL_OBT": "44"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 650,
+            "TOTAL_MIN": 260,
+            "TOTAL_OBT": 502
+        },
+        "result": "SC",
+        "percentage": 77.23
+    }
+]
