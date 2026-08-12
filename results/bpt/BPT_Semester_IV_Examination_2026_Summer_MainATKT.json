@@ -1,0 +1,2662 @@
+[
+    {
+        "roll_no": "242503002",
+        "name": "AFSEEN BANO",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "77",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "96"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "83"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "86"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "71",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "90"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "80"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "83"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "74",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "94"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 762
+        },
+        "result": "SC",
+        "percentage": 84.67
+    },
+    {
+        "roll_no": "242503003",
+        "name": "AJAY PARASHAR",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "74",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "88"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "82"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 629
+        },
+        "result": "SC",
+        "percentage": 69.89
+    },
+    {
+        "roll_no": "242503004",
+        "name": "AKSHAT DAVE",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "18",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "18*"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "7",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "12*"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "3*"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 33
+        },
+        "result": "NC",
+        "percentage": 3.67
+    },
+    {
+        "roll_no": "242503006",
+        "name": "DIKSHANT KUMAR",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "44*"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "51"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "38*"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "32",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "45*"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 488
+        },
+        "result": "NC",
+        "percentage": 54.22
+    },
+    {
+        "roll_no": "242503007",
+        "name": "DIVYANSHU VAISHNAV",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "51"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 587
+        },
+        "result": "SC",
+        "percentage": 65.22
+    },
+    {
+        "roll_no": "242503008",
+        "name": "HEMANT AGARWAL",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "68",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "85"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 664
+        },
+        "result": "SC",
+        "percentage": 73.78
+    },
+    {
+        "roll_no": "242503009",
+        "name": "HIMANSHU BACHCHAN",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "28*"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "59"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "40*"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "13",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "13*"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "47*"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "23",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "23*"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 384
+        },
+        "result": "NC",
+        "percentage": 42.67
+    },
+    {
+        "roll_no": "242503011",
+        "name": "JATIN KACHHWAHA",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "75",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "92"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "86"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "20 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "71",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "91"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "72",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "90"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 728
+        },
+        "result": "SC",
+        "percentage": 80.89
+    },
+    {
+        "roll_no": "242503012",
+        "name": "KAVITA JANGID",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "41",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 627
+        },
+        "result": "SC",
+        "percentage": 69.67
+    },
+    {
+        "roll_no": "242503013",
+        "name": "KHUSHI SANKHLA",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "83"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "66",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 672
+        },
+        "result": "SC",
+        "percentage": 74.67
+    },
+    {
+        "roll_no": "242503014",
+        "name": "KSHITIJA MAHENDRA MEWADA",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "75",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "93"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 646
+        },
+        "result": "SC",
+        "percentage": 71.78
+    },
+    {
+        "roll_no": "242503015",
+        "name": "LAXMI SOLANKI",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "77",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "94"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 642
+        },
+        "result": "SC",
+        "percentage": 71.33
+    },
+    {
+        "roll_no": "242503016",
+        "name": "MANISH PATEL",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "46*"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 529
+        },
+        "result": "NC",
+        "percentage": 58.78
+    },
+    {
+        "roll_no": "242503017",
+        "name": "NARENDRA DEORA",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "31",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "46*"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 606
+        },
+        "result": "NC",
+        "percentage": 67.33
+    },
+    {
+        "roll_no": "242503020",
+        "name": "POOJA BANJARA",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "70",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "87"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "82"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "86"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 680
+        },
+        "result": "SC",
+        "percentage": 75.56
+    },
+    {
+        "roll_no": "242503021",
+        "name": "RANI SONI",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "67",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "85"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "88"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "82"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 689
+        },
+        "result": "SC",
+        "percentage": 76.56
+    },
+    {
+        "roll_no": "242503022",
+        "name": "SAMIK BHARGAVA",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "42",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "63",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 596
+        },
+        "result": "SC",
+        "percentage": 66.22
+    },
+    {
+        "roll_no": "242503024",
+        "name": "SUYANSHI RAJPUROHIT",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "87"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "83"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "82"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "69",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "88"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "19 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "84"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 714
+        },
+        "result": "SC",
+        "percentage": 79.33
+    },
+    {
+        "roll_no": "242503025",
+        "name": "TIRTHRAJ",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "7*"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "2 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "2*"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "5 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "5*"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "3 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "3*"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "0*"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "7*"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "6 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "6*"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "1 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "1*"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "4 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "4*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 35
+        },
+        "result": "NC",
+        "percentage": 3.89
+    },
+    {
+        "roll_no": "242503026",
+        "name": "UDAI PRATAP SINGH",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "72"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "9 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "53",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "57"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 571
+        },
+        "result": "SC",
+        "percentage": 63.44
+    },
+    {
+        "roll_no": "242503027",
+        "name": "MADHAV PANWAR",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "47*"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "55"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "43",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "51"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "57",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "45",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 510
+        },
+        "result": "NC",
+        "percentage": 56.67
+    },
+    {
+        "roll_no": "242503028",
+        "name": "RAHUL",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "39",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "29",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "42*"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 544
+        },
+        "result": "NC",
+        "percentage": 60.44
+    },
+    {
+        "roll_no": "242503029",
+        "name": "RAMESHWAR KHURKHURIYA",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "54"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "81"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "59",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "69"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "61",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "76"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "53"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "66"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "46",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "60"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 593
+        },
+        "result": "SC",
+        "percentage": 65.89
+    },
+    {
+        "roll_no": "242503030",
+        "name": "YOGITA",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "62"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "64",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "80"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "49",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "74"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "40",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "56"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "67"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "79"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 627
+        },
+        "result": "SC",
+        "percentage": 69.67
+    },
+    {
+        "roll_no": "242503031",
+        "name": "PRIYANKA SARAN",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "63"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "83"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "55",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "71"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "65",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "82"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "61"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "18 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "78"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "16 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "17 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 654
+        },
+        "result": "SC",
+        "percentage": 72.67
+    },
+    {
+        "roll_no": "242503032",
+        "name": "KUNAL RAJPUROHIT",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "36*"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "11 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "47",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "44",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "60",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "75"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "26",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "36*"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "30",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "42*"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "48",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "58"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 490
+        },
+        "result": "NC",
+        "percentage": 54.44
+    },
+    {
+        "roll_no": "242503033",
+        "name": "DINESH",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "77"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "12 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "56",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "68"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "58",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "73"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "15 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "65"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "13 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "27",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "40*"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "14 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "AB",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "14*"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 504
+        },
+        "result": "NC",
+        "percentage": 56.0
+    },
+    {
+        "roll_no": "242503034",
+        "name": "SAKSHI GOYAL",
+        "course": "BPT Semester IV",
+        "subjects": {
+            "BPT401T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "7 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "35",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "42*"
+            },
+            "BPT402T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "50",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "50"
+            },
+            "BPT403P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "10 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "54",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "64"
+            },
+            "BPT403T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "38",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "38*"
+            },
+            "BPT404P": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "8 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "62",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "70"
+            },
+            "BPT404T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "22",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "22*"
+            },
+            "BPT405T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "52",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "52"
+            },
+            "BPT406T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "AB ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "37",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "37*"
+            },
+            "BPT407T": {
+                "CIA_MAX": "20",
+                "CIA_OBT": "0 ",
+                "ESE_MAX": "80",
+                "ESE_OBT": "51",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "50",
+                "TOTAL_OBT": "51"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 900,
+            "TOTAL_MIN": 450,
+            "TOTAL_OBT": 426
+        },
+        "result": "NC",
+        "percentage": 47.33
+    }
+]
