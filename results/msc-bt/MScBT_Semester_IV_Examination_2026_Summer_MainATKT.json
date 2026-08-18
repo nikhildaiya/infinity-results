@@ -1,0 +1,186 @@
+[
+    {
+        "roll_no": "241302001",
+        "name": "AKSHITA BHATI",
+        "course": "M.Sc.(BT) Semester IV",
+        "subjects": {
+            "CCMSBT421": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "100",
+                "ESE_OBT": "92",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "92"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 100,
+            "TOTAL_MIN": 40,
+            "TOTAL_OBT": 92
+        },
+        "result": "SC",
+        "percentage": 92.0
+    },
+    {
+        "roll_no": "241302003",
+        "name": "ANNIE JOSEPH",
+        "course": "M.Sc.(BT) Semester IV",
+        "subjects": {
+            "CCMSBT421": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "100",
+                "ESE_OBT": "93",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "93"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 100,
+            "TOTAL_MIN": 40,
+            "TOTAL_OBT": 93
+        },
+        "result": "SC",
+        "percentage": 93.0
+    },
+    {
+        "roll_no": "241302005",
+        "name": "JOYA ANSARI",
+        "course": "M.Sc.(BT) Semester IV",
+        "subjects": {
+            "CCMSBT421": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "100",
+                "ESE_OBT": "80",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 100,
+            "TOTAL_MIN": 40,
+            "TOTAL_OBT": 80
+        },
+        "result": "SC",
+        "percentage": 80.0
+    },
+    {
+        "roll_no": "241302006",
+        "name": "KRATIKA SOLANKI",
+        "course": "M.Sc.(BT) Semester IV",
+        "subjects": {
+            "CCMSBT421": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "100",
+                "ESE_OBT": "80",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 100,
+            "TOTAL_MIN": 40,
+            "TOTAL_OBT": 80
+        },
+        "result": "SC",
+        "percentage": 80.0
+    },
+    {
+        "roll_no": "241302007",
+        "name": "MEGHA RANI OZHA",
+        "course": "M.Sc.(BT) Semester IV",
+        "subjects": {
+            "CCMSBT421": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "100",
+                "ESE_OBT": "85",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "85"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 100,
+            "TOTAL_MIN": 40,
+            "TOTAL_OBT": 85
+        },
+        "result": "SC",
+        "percentage": 85.0
+    },
+    {
+        "roll_no": "241302008",
+        "name": "PARAMVEER SINGH",
+        "course": "M.Sc.(BT) Semester IV",
+        "subjects": {
+            "CCMSBT421": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "100",
+                "ESE_OBT": "80",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "80"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 100,
+            "TOTAL_MIN": 40,
+            "TOTAL_OBT": 80
+        },
+        "result": "SC",
+        "percentage": 80.0
+    },
+    {
+        "roll_no": "241302009",
+        "name": "VIDUSHI NEGI",
+        "course": "M.Sc.(BT) Semester IV",
+        "subjects": {
+            "CCMSBT421": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "100",
+                "ESE_OBT": "86",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "86"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 100,
+            "TOTAL_MIN": 40,
+            "TOTAL_OBT": 86
+        },
+        "result": "SC",
+        "percentage": 86.0
+    },
+    {
+        "roll_no": "241302010",
+        "name": "YASHASVI MATHUR",
+        "course": "M.Sc.(BT) Semester IV",
+        "subjects": {
+            "CCMSBT421": {
+                "CIA_MAX": " ",
+                "CIA_OBT": " ",
+                "ESE_MAX": "100",
+                "ESE_OBT": "82",
+                "TOTAL_MAX": "100",
+                "TOTAL_MIN": "40",
+                "TOTAL_OBT": "82"
+            }
+        },
+        "grand_total": {
+            "TOTAL_MAX": 100,
+            "TOTAL_MIN": 40,
+            "TOTAL_OBT": 82
+        },
+        "result": "SC",
+        "percentage": 82.0
+    }
+]
